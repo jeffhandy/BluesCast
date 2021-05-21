@@ -1,0 +1,2000 @@
+TBluesCast
+v7
+r0
+t313709182.960949
+cCheck dependencies
+cProcessInfoPlistFile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Info.plist BluesCast-Info.plist
+cCompileXIB /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib
+cCompileXIB /Users/jeff/Documents/BluesCast/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/BluesCast.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/BluesCast.app/rocket88.png rocket88.png
+cCpResource build/Debug-iphonesimulator/BluesCast.app/playbutton.png playbutton.png
+cCpResource build/Debug-iphonesimulator/BluesCast.app/stopbutton.png stopbutton.png
+cCpResource build/Debug-iphonesimulator/BluesCast.app/loadingbutton.png loadingbutton.png
+cCpResource build/Debug-iphonesimulator/BluesCast.app/pausebutton.png pausebutton.png
+cCompileXIB /Users/jeff/Documents/BluesCast/DetailView.xib
+cCopyPlistFile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Data.plist Data.plist
+cCompileXIB /Users/jeff/Documents/BluesCast/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/BluesCast.app/icon.png icon.png
+cCompileXIB /Users/jeff/Documents/BluesCast/Information.xib
+cCpResource build/Debug-iphonesimulator/BluesCast.app/about.png about.png
+cCpResource build/Debug-iphonesimulator/BluesCast.app/next.png next.png
+cCompileXIB /Users/jeff/Documents/BluesCast/StreamEditorViewController.xib
+cProcessPCH /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-fclqsjtdnizaapgcrwdaguhotfwa/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cicfcprlxnpocierijpsyivmozvw/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/main.o /Users/jeff/Documents/BluesCast/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQLevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/GLLevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/LevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AlertRun.o /Users/jeff/Documents/BluesCast/AlertRun.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/iPhoneStreamingPlayerViewController.o /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AudioStreamer.o /Users/jeff/Documents/BluesCast/AudioStreamer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/RootViewController.o /Users/jeff/Documents/BluesCast/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/TopicsViewController.o /Users/jeff/Documents/BluesCast/TopicsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQPlayer.o /Users/jeff/Documents/BluesCast/AQPlayer.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQRecorder.o /Users/jeff/Documents/BluesCast/AQRecorder.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/SpeakHereAppDelegate.o /Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CADebugMacros.o /Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CAStreamBasicDescription.o /Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CAXException.o /Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/MeterTable.o /Users/jeff/Documents/BluesCast/MeterTable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/FavoritesTableController.o /Users/jeff/Documents/BluesCast/FavoritesTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/InformationController.o /Users/jeff/Documents/BluesCast/InformationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/StreamEditorViewController.o /Users/jeff/Documents/BluesCast/StreamEditorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast normal i386
+cGenerateDSYMFile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app.dSYM /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast
+cTouch /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB00000000001816A0
+t1242410443
+s1578656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioQueue.h
+c000000004A0DADB60000000000011DF0
+t1242410422
+s73200
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004A0BAA8E00000000000F5D10
+t1242278542
+s1006864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004A0BAA3600000000000004CF
+t1242278454
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004A0BAA35000000000000F342
+t1242278453
+s62274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
+c000000004A0BA8C00000000000001983
+t1242278080
+s6531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004A0BA8C00000000000000A99
+t1242278080
+s2713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004A0E259B000000000000022F
+t1242441115
+s559
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A0E25B700000000000BE9D0
+t1242441143
+s780752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A0BAD67000000000000094F
+t1242279271
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A0BAD670000000000000A61
+t1242279271
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A0BAD670000000000009369
+t1242279271
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A0BAD670000000000002576
+t1242279271
+s9590
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A0BAD70000000000001F0F0
+t1242279280
+s127216
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004A0BADD8000000000000031C
+t1242279384
+s796
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/ConditionalMacros.h
+c000000004A0BAC5D0000000000006860
+t1242279005
+s26720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/ctype.h
+c000000004748A1320000000000002C3A
+t1195942194
+s11322
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/libkern/OSAtomic.h
+c000000004748A13100000000000024B9
+t1195942193
+s9401
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/pthread.h
+c000000004748A133000000000000380F
+t1195942195
+s14351
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/syslog.h
+c000000004748A13100000000000003EC
+t1195942193
+s1004
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004748AF9500000000000010DD
+t1195945877
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004748AF950000000000003197
+t1195945877
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004BBA72F900000000000000EE
+t1270510329
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B2B4D460000000000193960
+t1261129030
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioQueue.h
+c000000004B2B4D2F0000000000011F11
+t1261129007
+s73489
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004B2B4D2F0000000000000A22
+t1261129007
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004B2B4D5700000000001097C0
+t1261129047
+s1087424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004B2B4CD600000000000004CF
+t1261128918
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004B2B4CBD000000000000F342
+t1261128893
+s62274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
+c000000004B2B4C150000000000001983
+t1261128725
+s6531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B2B4C170000000000000A99
+t1261128727
+s2713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004B2B649D000000000000022F
+t1261135005
+s559
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004B2B64D200000000000CB600
+t1261135058
+s833024
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004B2B5307000000000000094F
+t1261130503
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004B2B53070000000000000A61
+t1261130503
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004B2B53070000000000009369
+t1261130503
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004B2B53070000000000002A42
+t1261130503
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004B2B532D000000000001F8E0
+t1261130541
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004B2B53800000000000000341
+t1261130624
+s833
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B537F000000000000007D
+t1261130623
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B540C00000000000E5890
+t1261130764
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/ConditionalMacros.h
+c000000004B2B4EE20000000000006860
+t1261129442
+s26720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/ctype.h
+c000000004748A1320000000000002C3A
+t1195942194
+s11322
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/libkern/OSAtomic.h
+c000000004748A13100000000000024B9
+t1195942193
+s9401
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/pthread.h
+c000000004748A133000000000000380F
+t1195942195
+s14351
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/syslog.h
+c000000004748A13100000000000003EC
+t1195942193
+s1004
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004748AF9500000000000010DD
+t1195945877
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004748AF950000000000003197
+t1195945877
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004BBA730200000000000000EE
+t1270510338
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A7650200000000000193960
+t1249267744
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioQueue.h
+c000000004A76500B0000000000011F11
+t1249267723
+s73489
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A76500B0000000000000A22
+t1249267723
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004A76502300000000001097C0
+t1249267747
+s1087424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004A764FED00000000000004CF
+t1249267693
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004A764FD1000000000000F342
+t1249267665
+s62274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
+c000000004A764ECF0000000000001983
+t1249267407
+s6531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004A764ED10000000000000A99
+t1249267409
+s2713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004A860FD3000000000000022F
+t1250299859
+s559
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A860FEA00000000000CB600
+t1250299882
+s833024
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A76554E000000000000094F
+t1249269070
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A76554E0000000000000A61
+t1249269070
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A76554E0000000000009369
+t1249269070
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A76554E0000000000002A42
+t1249269070
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A765556000000000001F8E0
+t1249269078
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004A7655B10000000000000341
+t1249269169
+s833
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A7655B1000000000000007D
+t1249269169
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A76560A00000000000E5890
+t1249269258
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/ConditionalMacros.h
+c000000004A7653D10000000000006860
+t1249268689
+s26720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/ctype.h
+c000000004748A1320000000000002C3A
+t1195942194
+s11322
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/libkern/OSAtomic.h
+c000000004748A13100000000000024B9
+t1195942193
+s9401
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/pthread.h
+c000000004748A133000000000000380F
+t1195942195
+s14351
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/syslog.h
+c000000004748A13100000000000003EC
+t1195942193
+s1004
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004748AF9500000000000010DD
+t1195945877
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004748AF950000000000003197
+t1195945877
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioQueue.h
+c000000004CC1222F00000000000126F8
+t1287725615
+s75512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC1224400000000001C3D40
+t1287725636
+s1850688
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004CC1221800000000000004CF
+t1287725592
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004CC12203000000000001032E
+t1287725571
+s66350
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
+c000000004CC1219E0000000000001983
+t1287725470
+s6531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC1219F0000000000000AB3
+t1287725471
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004CC656490000000000000294
+t1288066633
+s660
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004CC1233D0000000000000364
+t1287725885
+s868
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ConditionalMacros.h
+c000000004CB3FA080000000000006860
+t1286863368
+s26720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ctype.h
+c000000004CB3E4860000000000002C18
+t1286857862
+s11288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libkern/OSAtomic.h
+c000000004CB3E4860000000000002519
+t1286857862
+s9497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/pthread.h
+c000000004CB3E48600000000000038F0
+t1286857862
+s14576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/syslog.h
+c000000004CB3E48600000000000003EC
+t1286857862
+s1004
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Users/jeff/Documents/BluesCast/AQPlayer.h
+c0000000049D1290C000000000000118F
+t1238444300
+s4495
+i<AudioToolbox/AudioToolbox.h>
+i"CAStreamBasicDescription.h"
+i"CAXException.h"
+
+N/Users/jeff/Documents/BluesCast/AQPlayer.mm
+c0000000049D1290C0000000000002959
+t1238444300
+s10585
+i"AQPlayer.h"
+
+N/Users/jeff/Documents/BluesCast/AQRecorder.h
+c0000000049D1290C0000000000000F62
+t1238444300
+s3938
+i<AudioToolbox/AudioToolbox.h>
+i<Foundation/Foundation.h>
+i<libkern/OSAtomic.h>
+i"CAStreamBasicDescription.h"
+i"CAXException.h"
+
+N/Users/jeff/Documents/BluesCast/AQRecorder.mm
+c000000004A57CCF2000000000000317F
+t1247268082
+s12671
+i"AQRecorder.h"
+
+N/Users/jeff/Documents/BluesCast/AlertRun.h
+c000000004A0F290400000000000001F9
+t1242507524
+s505
+i<Foundation/Foundation.h>
+
+N/Users/jeff/Documents/BluesCast/AlertRun.m
+c000000004A186E8600000000000002A7
+t1243115142
+s679
+i"AlertRun.h"
+
+N/Users/jeff/Documents/BluesCast/AudioStreamer.h
+c000000004A7307FA0000000000001961
+t1249052666
+s6497
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+i<pthread.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jeff/Documents/BluesCast/AudioStreamer.m
+c000000004A730BB4000000000000A4DE
+t1249053620
+s42206
+i"AudioStreamer.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.h
+c0000000049D1290C0000000000000E6A
+t1238444300
+s3690
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioQueue.h>
+i"MeterTable.h"
+i"CAXException.h"
+
+N/Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm
+c0000000049D1290C0000000000002A7C
+t1238444300
+s10876
+i"AQLevelMeter.h"
+i"LevelMeter.h"
+i"GLLevelMeter.h"
+i"CAStreamBasicDescription.h"
+
+N/Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.h
+c0000000049D1290C0000000000000ACE
+t1238444300
+s2766
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"LevelMeter.h"
+
+N/Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m
+c0000000049D1290C000000000000286D
+t1238444300
+s10349
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLLevelMeter.h"
+
+N/Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.h
+c0000000049D1290C0000000000001095
+t1238444300
+s4245
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m
+c0000000049D1290C000000000000219A
+t1238444300
+s8602
+i"LevelMeter.h"
+
+N/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch
+c000000004A6E3A0600000000000000DE
+t1248737798
+s222
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/Data.plist
+c000000004D0032BF0000000000001852
+t1291858623
+s6226
+
+N/Users/jeff/Documents/BluesCast/Default.png
+c000000004A66390E00000000000402CA
+t1248213262
+s262858
+
+N/Users/jeff/Documents/BluesCast/DetailView.xib
+c0000000049B419D700000000000016FC
+t1236539863
+s5884
+
+N/Users/jeff/Documents/BluesCast/FavoritesTableController.h
+c000000004D028F680000000000000236
+t1292013416
+s566
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/FavoritesTableController.m
+c000000004D028FBA000000000000240E
+t1292013498
+s9230
+i"FavoritesTableController.h"
+i"SpeakHereAppDelegate.h"
+
+N/Users/jeff/Documents/BluesCast/Information.xib
+c000000004CDB41B300000000000064F1
+t1289437619
+s25841
+
+N/Users/jeff/Documents/BluesCast/InformationController.h
+c000000004A1BFFEB0000000000000161
+t1243348971
+s353
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/InformationController.m
+c000000004A1BFFEB0000000000000757
+t1243348971
+s1879
+i"InformationController.h"
+
+N/Users/jeff/Documents/BluesCast/MainWindow.xib
+c000000004A5FAE1C00000000000022E9
+t1247784476
+s8937
+
+N/Users/jeff/Documents/BluesCast/MeterTable.cpp
+c0000000049D1290C0000000000000CDF
+t1238444300
+s3295
+i"MeterTable.h"
+
+N/Users/jeff/Documents/BluesCast/MeterTable.h
+c0000000049D1290C0000000000000D9B
+t1238444300
+s3483
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+
+N/Users/jeff/Documents/BluesCast/RootViewController.h
+c000000004A71D19F000000000000036C
+t1248973215
+s876
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/RootViewController.m
+c000000004D029AAF00000000000027D3
+t1292016303
+s10195
+i"RootViewController.h"
+i"SpeakHereAppDelegate.h"
+i"iPhoneStreamingPlayerViewController.h"
+
+N/Users/jeff/Documents/BluesCast/RootViewController.xib
+c000000004A6E2B5C00000000000020B7
+t1248734044
+s8375
+
+N/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.h
+c000000004A7201030000000000000D5D
+t1248985347
+s3421
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m
+c000000004D0294C8000000000000181B
+t1292014792
+s6171
+i"SpeakHereAppDelegate.h"
+i"iPhoneStreamingPlayerViewController.h"
+i"TopicsViewController.h"
+
+N/Users/jeff/Documents/BluesCast/StreamEditorViewController.h
+c000000004D0284BE00000000000001A0
+t1292010686
+s416
+i<UIKit/UIKit.h>
+i"SpeakHereAppDelegate.h"
+
+N/Users/jeff/Documents/BluesCast/StreamEditorViewController.m
+c000000004D029AFE0000000000001191
+t1292016382
+s4497
+i"StreamEditorViewController.h"
+
+N/Users/jeff/Documents/BluesCast/StreamEditorViewController.xib
+c000000004D027F710000000000007E5E
+t1292009329
+s32350
+
+N/Users/jeff/Documents/BluesCast/TopicsViewController.h
+c000000004D0154FE000000000000048F
+t1291932926
+s1167
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+i"FavoritesTableController.h"
+i"SpeakHereAppDelegate.h"
+i"InformationController.h"
+i"StreamEditorViewController.h"
+
+N/Users/jeff/Documents/BluesCast/TopicsViewController.m
+c000000004D028E46000000000000204E
+t1292013126
+s8270
+i"TopicsViewController.h"
+
+N/Users/jeff/Documents/BluesCast/about.png
+c000000004A99451500000000000307A9
+t1251558677
+s198569
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQLevelMeter.o
+t1291854402
+s82848
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQPlayer.o
+t1291854402
+s42048
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQRecorder.o
+t1291854402
+s42320
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AlertRun.o
+t1291854401
+s43584
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AudioStreamer.o
+t1291854402
+s88220
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/BluesCast.LinkFileList
+c000000004D027E8E00000000000009B5
+t1292009102
+s2485
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CADebugMacros.o
+t1291854402
+s3328
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CAStreamBasicDescription.o
+t1291854402
+s31304
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CAXException.o
+t1291854402
+s3668
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/FavoritesTableController.o
+t1292013498
+s59956
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/GLLevelMeter.o
+t1291854402
+s59924
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/InformationController.o
+t1291854402
+s41464
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/LevelMeter.o
+t1291854402
+s58656
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/MeterTable.o
+t1291854402
+s7172
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/RootViewController.o
+t1292016303
+s65632
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/SpeakHereAppDelegate.o
+t1292015259
+s61552
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/StreamEditorViewController.o
+t1292016382
+s54436
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/TopicsViewController.o
+t1292013416
+s71380
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/iPhoneStreamingPlayerViewController.o
+t1292009102
+s93084
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/main.o
+t1291854401
+s6288
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app
+t1292016382
+s782
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app.dSYM
+t1292016382
+s102
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast
+t1292016382
+s209360
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Data.plist
+t1292009102
+s1619
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Default.png
+t1291854399
+s262858
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/DetailView.nib
+t1291854400
+s764
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Info.plist
+t1291854399
+s655
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Information.nib
+t1291854400
+s2250
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/MainWindow.nib
+t1291854400
+s962
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/PkgInfo
+t1291854399
+s8
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/RootViewController.nib
+t1291854400
+s1056
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/StreamEditorViewController.nib
+t1292009341
+s3166
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/about.png
+t1291854399
+s198569
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/iPhoneStreamingPlayerViewController.nib
+t1292009102
+s3701
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/icon.png
+t1291854399
+s5777
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/loadingbutton.png
+t1291854399
+s3914
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/next.png
+t1291854399
+s7187
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/pausebutton.png
+t1291854399
+s3060
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/playbutton.png
+t1291854399
+s6969
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/rocket88.png
+t1291854399
+s144037
+
+N/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/stopbutton.png
+t1291854399
+s6322
+
+N/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.h
+c000000004A7309250000000000000836
+t1249052965
+s2102
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m
+c000000004D0167F300000000000034E8
+t1291937779
+s13544
+i"iPhoneStreamingPlayerViewController.h"
+i"AudioStreamer.h"
+i<QuartzCore/CoreAnimation.h>
+i<MediaPlayer/MediaPlayer.h>
+i<CFNetwork/CFNetwork.h>
+i"AlertRun.h"
+
+N/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib
+c000000004D015909000000000000A45A
+t1291933961
+s42074
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp
+c0000000049D1290C0000000000000C00
+t1238444300
+s3072
+i"CADebugMacros.h"
+i<stdio.h>
+i<stdarg.h>
+i<syslog.h>
+i<stdio.h>
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.h
+c0000000049D1290C0000000000004C2D
+t1238444300
+s19501
+i<CoreAudio/CoreAudioTypes.h>
+i"CoreAudioTypes.h"
+i"CADebugPrintf.h"
+i<pthread.h>
+i"CAHostTimeBase.h"
+i"CAHostTimeBase.h"
+i"CADebugger.h"
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CAMath.h
+c0000000049D1290C0000000000000C57
+t1238444300
+s3159
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp
+c0000000049D1290C0000000000004A29
+t1238444300
+s18985
+i"CAStreamBasicDescription.h"
+i"CAMath.h"
+i<CoreFoundation/CFByteOrder.h>
+i<CFByteOrder.h>
+i<stddef.h>
+i"CALogMacros.h"
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.h
+c0000000049D1290C0000000000002ED5
+t1238444300
+s11989
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreFoundation/CoreFoundation.h>
+i"CoreAudioTypes.h"
+i"CoreFoundation.h"
+i"CADebugMacros.h"
+i<string.h>
+i<stdio.h>
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp
+c0000000049D1290C00000000000009DC
+t1238444300
+s2524
+i"CAXException.h"
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.h
+c0000000049D1290C0000000000001A33
+t1238444300
+s6707
+i<CoreFoundation/CoreFoundation.h>
+i<ConditionalMacros.h>
+i<CoreFoundation.h>
+i"CADebugMacros.h"
+i<ctype.h>
+i<stdio.h>
+i<string.h>
+
+N/Users/jeff/Documents/BluesCast/icon.png
+c000000004A994DE40000000000001691
+t1251560932
+s5777
+
+N/Users/jeff/Documents/BluesCast/loadingbutton.png
+c000000004A6629C40000000000000F4A
+t1248209348
+s3914
+
+N/Users/jeff/Documents/BluesCast/main.m
+c000000004A6E322C0000000000000165
+t1248735788
+s357
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/next.png
+c000000004BE9D2040000000000001C13
+t1273614852
+s7187
+
+N/Users/jeff/Documents/BluesCast/pausebutton.png
+c000000004A6625520000000000000BF4
+t1248208210
+s3060
+
+N/Users/jeff/Documents/BluesCast/playbutton.png
+c000000004A6635C60000000000001B39
+t1248212422
+s6969
+
+N/Users/jeff/Documents/BluesCast/rocket88.png
+c000000004A66394600000000000232A5
+t1248213318
+s144037
+
+N/Users/jeff/Documents/BluesCast/stopbutton.png
+c000000004A6634E000000000000018B2
+t1248212192
+s6322
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-aqhxambdufiobfbfynaqabtdxfkh/BluesCast_Prefix.pch.gch
+t1273533075
+s13026768
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-atwdlbcvvvuoaaggwlcdwgmqooit/BluesCast_Prefix.pch.gch
+t1272054480
+s13026768
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bgwgpysnbpitdgcdbcynuszfitbt/BluesCast_Prefix.pch.gch
+t1264979496
+s12952976
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bkdlqygbczpiprbrhtsifljptcgn/BluesCast_Prefix.pch.gch
+t1272054480
+s13972912
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bwheiomrtbiblycmmmypnklpwgje/BluesCast_Prefix.pch.gch
+t1272054479
+s2515312
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch.gch
+t1291854401
+s15473872
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cicfcprlxnpocierijpsyivmozvw/BluesCast_Prefix.pch.gch
+t1291854400
+s2515312
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-clbvdfwqptqcibcqopsajnwvqwuu/BluesCast_Prefix.pch.gch
+t1264979496
+s13895024
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-eriuxgbnokqwwpbdvhazyekdhhpu/BluesCast_Prefix.pch.gch
+t1264979495
+s2515312
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-fclqsjtdnizaapgcrwdaguhotfwa/BluesCast_Prefix.pch.gch
+t1291854401
+s16497744
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdxeiedrlxpjcpctrtnvigwsruiu/BluesCast_Prefix.pch.gch
+t1273533075
+s13972912
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-heztjsasbgtzxedbnahzklhfqzfn/BluesCast_Prefix.pch.gch
+t1273533074
+s2515312
+
+NBluesCast-Info.plist
+c000000004CE0177500000000000003F7
+t1289754485
+s1015
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313709182#313709182#0(0"0(0#1#0"9092305600#0"0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQLevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s313547201.802745
+e313547202.063421
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQLevelMeter.o
+x/Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm313547201#313547202#0(0"0(0#0#58"/Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm8945275488#1926"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-fclqsjtdnizaapgcrwdaguhotfwa/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQLevelMeter.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQPlayer.o /Users/jeff/Documents/BluesCast/AQPlayer.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s313547201.959439
+e313547202.175544
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQPlayer.o
+x/Users/jeff/Documents/BluesCast/AQPlayer.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/AQPlayer.mm: In static member function 'static void AQPlayer::AQBufferCallback(void*, OpaqueAudioQueue*, AudioQueueBuffer*)':
+o/Users/jeff/Documents/BluesCast/AQPlayer.mm:66: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+lSLF07#2@51"Compile /Users/jeff/Documents/BluesCast/AQPlayer.mm313547201#313547202#0(282"/Users/jeff/Documents/BluesCast/AQPlayer.mm: In static member function 'static void AQPlayer::AQBufferCallback(void*, OpaqueAudioQueue*, AudioQueueBuffer*)':/Users/jeff/Documents/BluesCast/AQPlayer.mm:66: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'1(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'313547202#158#124#0(6@43"/Users/jeff/Documents/BluesCast/AQPlayer.mm260137100#66#0#66#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#43"/Users/jeff/Documents/BluesCast/AQPlayer.mm8960819008#1907"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-fclqsjtdnizaapgcrwdaguhotfwa/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AQPlayer.mm -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQPlayer.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQRecorder.o /Users/jeff/Documents/BluesCast/AQRecorder.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s313547202.016971
+e313547202.178933
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQRecorder.o
+x/Users/jeff/Documents/BluesCast/AQRecorder.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jeff/Documents/BluesCast/AQRecorder.mm313547202#313547202#0(0"0(0#0#45"/Users/jeff/Documents/BluesCast/AQRecorder.mm8959552576#1911"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-fclqsjtdnizaapgcrwdaguhotfwa/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AQRecorder.mm -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AQRecorder.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AlertRun.o /Users/jeff/Documents/BluesCast/AlertRun.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313547201.806434
+e313547201.959308
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AlertRun.o
+x/Users/jeff/Documents/BluesCast/AlertRun.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/jeff/Documents/BluesCast/AlertRun.m313547201#313547201#0(0"0(0#0#42"/Users/jeff/Documents/BluesCast/AlertRun.m8962980736#1885"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AlertRun.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AlertRun.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AudioStreamer.o /Users/jeff/Documents/BluesCast/AudioStreamer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313547201.808341
+e313547202.094563
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AudioStreamer.o
+x/Users/jeff/Documents/BluesCast/AudioStreamer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m: In function 'ReadStreamCallBack':
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:647: warning: format not a string literal and no format arguments
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m: In function '-[AudioStreamer checkAvailableBuffers:]':
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: 'AudioStreamer' may not respond to '-updateBufferStatus:'
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: (Messages without a matching method signature
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: '...' as arguments.)
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m: In function '-[AudioStreamer checkStreamRate:]':
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:897: warning: unused variable 'rate'
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m: At top level:
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'rateReadingCount' requires method '-rateReadingCount' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'rateReadingCount' requires the method 'setRateReadingCount:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'averageStreamingRate' requires method '-averageStreamingRate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'averageStreamingRate' requires the method 'setAverageStreamingRate:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@55"Compile /Users/jeff/Documents/BluesCast/AudioStreamer.m313547201#313547202#0(1808"/Users/jeff/Documents/BluesCast/AudioStreamer.m: In function 'ReadStreamCallBack':/Users/jeff/Documents/BluesCast/AudioStreamer.m:647: warning: format not a string literal and no format arguments/Users/jeff/Documents/BluesCast/AudioStreamer.m: In function '-[AudioStreamer checkAvailableBuffers:]':/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: 'AudioStreamer' may not respond to '-updateBufferStatus:'/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: (Messages without a matching method signature/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: will be assumed to return 'id' and accept/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: '...' as arguments.)/Users/jeff/Documents/BluesCast/AudioStreamer.m: In function '-[AudioStreamer checkStreamRate:]':/Users/jeff/Documents/BluesCast/AudioStreamer.m:897: warning: unused variable 'rate'/Users/jeff/Documents/BluesCast/AudioStreamer.m: At top level:/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'rateReadingCount' requires method '-rateReadingCount' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'rateReadingCount' requires the method 'setRateReadingCount:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'averageStreamingRate' requires method '-averageStreamingRate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'averageStreamingRate' requires the method 'setAverageStreamingRate:' to be defined - use @synthesize, @dynamic or provide a method implementation9(22@51"Format not a string literal and no format arguments313547201#83#114#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#647#0#647#0#51"format not a string literal and no format arguments0(22@57"'AudioStreamer' may not respond to '-updateBufferStatus:'313547201#301#120#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#879#0#879#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313547201#421#108#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#879#0#879#0#0"0(22@22"Unused variable 'rate'313547201#814#85#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#897#0#897#0#19"unused variable '*'0(23@13"At top level:313547202#899#63#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#0#0#0#0#0"0(22@140"Property 'rateReadingCount' requires method '-rateReadingCount' to be defined - use @synthesize, @dynamic or provide a method implementation313547202#962#204#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#1401#0#1401#0#0"0(22@147"Property 'rateReadingCount' requires the method 'setRateReadingCount:' to be defined - use @synthesize, @dynamic or provide a method implementation313547202#1166#211#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#1401#0#1401#0#0"0(22@148"Property 'averageStreamingRate' requires method '-averageStreamingRate' to be defined - use @synthesize, @dynamic or provide a method implementation313547202#1377#212#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#1401#0#1401#0#0"0(22@155"Property 'averageStreamingRate' requires the method 'setAverageStreamingRate:' to be defined - use @synthesize, @dynamic or provide a method implementation313547202#1589#219#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#1401#0#1401#0#0"0(0#0#47"/Users/jeff/Documents/BluesCast/AudioStreamer.m8962133344#1895"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AudioStreamer.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/AudioStreamer.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CADebugMacros.o /Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s313547202.024743
+e313547202.176435
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CADebugMacros.o
+x/Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp313547202#313547202#0(0"0(0#0#64"/Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp8958727776#1879"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cicfcprlxnpocierijpsyivmozvw/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CADebugMacros.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CAStreamBasicDescription.o /Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s313547202.039235
+e313547202.252182
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CAStreamBasicDescription.o
+x/Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp313547202#313547202#0(0"0(0#0#75"/Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp8958133600#1901"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cicfcprlxnpocierijpsyivmozvw/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CAStreamBasicDescription.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CAXException.o /Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s313547202.064991
+e313547202.214658
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CAXException.o
+x/Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp313547202#313547202#0(0"0(0#0#63"/Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp8957620672#1877"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cicfcprlxnpocierijpsyivmozvw/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/CAXException.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/FavoritesTableController.o /Users/jeff/Documents/BluesCast/FavoritesTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313706298.459466
+e313706298.875190
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/FavoritesTableController.o
+x/Users/jeff/Documents/BluesCast/FavoritesTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m: In function '-[FavoritesTableController tableView:commitEditingStyle:forRowAtIndexPath:]':
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: 'NSArray' may not respond to '-removeObjectAtIndex:'
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: (Messages without a matching method signature
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: '...' as arguments.)
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m: In function '-[FavoritesTableController tableView:didSelectRowAtIndexPath:]':
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:233: warning: no '-stopAll' method found
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:234: warning: receiver 'iPhoneStreamingPlayerViewController' is a forward class and corresponding @interface may not exist
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:238: warning: no '-setShoutCastURL:' method found
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:239: warning: incompatible Objective-C types 'struct iPhoneStreamingPlayerViewController *', expected 'struct UIViewController *' when passing argument 1 of 'pushViewController:animated:' from distinct Objective-C type
+lSLF07#2@66"Compile /Users/jeff/Documents/BluesCast/FavoritesTableController.m313706298#313706298#0(1412"/Users/jeff/Documents/BluesCast/FavoritesTableController.m: In function '-[FavoritesTableController tableView:commitEditingStyle:forRowAtIndexPath:]':/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: 'NSArray' may not respond to '-removeObjectAtIndex:'/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: (Messages without a matching method signature/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: will be assumed to return 'id' and accept/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: '...' as arguments.)/Users/jeff/Documents/BluesCast/FavoritesTableController.m: In function '-[FavoritesTableController tableView:didSelectRowAtIndexPath:]':/Users/jeff/Documents/BluesCast/FavoritesTableController.m:233: warning: no '-stopAll' method found/Users/jeff/Documents/BluesCast/FavoritesTableController.m:234: warning: receiver 'iPhoneStreamingPlayerViewController' is a forward class and corresponding @interface may not exist/Users/jeff/Documents/BluesCast/FavoritesTableController.m:238: warning: no '-setShoutCastURL:' method found/Users/jeff/Documents/BluesCast/FavoritesTableController.m:239: warning: incompatible Objective-C types 'struct iPhoneStreamingPlayerViewController *', expected 'struct UIViewController *' when passing argument 1 of 'pushViewController:animated:' from distinct Objective-C type6(22@52"'NSArray' may not respond to '-removeObjectAtIndex:'313706298#151#126#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m313706298#183#0#183#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313706298#277#119#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m313706298#183#0#183#0#0"0(22@26"No '-stopAll' method found313706298#743#100#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m313706298#233#0#233#0#19"no '*' method found0(22@108"Receiver 'iPhoneStreamingPlayerViewController' is a forward class and corresponding @interface may not exist313706298#843#182#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m313706298#234#0#234#0#0"0(22@35"No '-setShoutCastURL:' method found313706298#1025#109#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m313706298#238#0#238#0#19"no '*' method found0(22@204"Incompatible Objective-C types 'struct iPhoneStreamingPlayerViewController *', expected 'struct UIViewController *' when passing argument 1 of 'pushViewController:animated:' from distinct Objective-C type313706298#1134#278#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m313706298#239#0#239#0#0"0(0#0#58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m9060168000#1917"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/FavoritesTableController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/FavoritesTableController.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/GLLevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313547201.804549
+e313547202.016099
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/GLLevelMeter.o
+x/Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m313547201#313547202#0(0"0(0#0#57"/Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m8964447424#1904"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/GLLevelMeter.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/InformationController.o /Users/jeff/Documents/BluesCast/InformationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313547202.171774
+e313547202.233223
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/InformationController.o
+x/Users/jeff/Documents/BluesCast/InformationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/jeff/Documents/BluesCast/InformationController.m313547202#313547202#0(0"0(0#0#55"/Users/jeff/Documents/BluesCast/InformationController.m8955383488#1911"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/InformationController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/InformationController.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/LevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313547201.805590
+e313547202.019348
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/LevelMeter.o
+x/Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m313547201#313547202#0(0"0(0#0#55"/Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m8963514976#1900"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/LevelMeter.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/MeterTable.o /Users/jeff/Documents/BluesCast/MeterTable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s313547202.069577
+e313547202.175196
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/MeterTable.o
+x/Users/jeff/Documents/BluesCast/MeterTable.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/jeff/Documents/BluesCast/MeterTable.cpp313547202#313547202#0(0"0(0#0#46"/Users/jeff/Documents/BluesCast/MeterTable.cpp8956997248#1858"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cicfcprlxnpocierijpsyivmozvw/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/MeterTable.cpp -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/MeterTable.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/RootViewController.o /Users/jeff/Documents/BluesCast/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313709103.329060
+e313709103.574056
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/RootViewController.o
+x/Users/jeff/Documents/BluesCast/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/RootViewController.m: In function '-[RootViewController viewDidLoad]':
+o/Users/jeff/Documents/BluesCast/RootViewController.m:49: warning: incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setTableDataSource:' from distinct Objective-C type
+o/Users/jeff/Documents/BluesCast/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/jeff/Documents/BluesCast/RootViewController.m:208: warning: 'iPhoneStreamingPlayerViewController' may not respond to '-stopAll'
+o/Users/jeff/Documents/BluesCast/RootViewController.m:208: warning: (Messages without a matching method signature
+o/Users/jeff/Documents/BluesCast/RootViewController.m:208: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Documents/BluesCast/RootViewController.m:208: warning: '...' as arguments.)
+lSLF07#2@60"Compile /Users/jeff/Documents/BluesCast/RootViewController.m313709103#313709103#0(906"/Users/jeff/Documents/BluesCast/RootViewController.m: In function '-[RootViewController viewDidLoad]':/Users/jeff/Documents/BluesCast/RootViewController.m:49: warning: incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setTableDataSource:' from distinct Objective-C type/Users/jeff/Documents/BluesCast/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':/Users/jeff/Documents/BluesCast/RootViewController.m:208: warning: 'iPhoneStreamingPlayerViewController' may not respond to '-stopAll'/Users/jeff/Documents/BluesCast/RootViewController.m:208: warning: (Messages without a matching method signature/Users/jeff/Documents/BluesCast/RootViewController.m:208: warning: will be assumed to return 'id' and accept/Users/jeff/Documents/BluesCast/RootViewController.m:208: warning: '...' as arguments.)3(22@165"Incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setTableDataSource:' from distinct Objective-C type313709103#103#232#0(6@52"/Users/jeff/Documents/BluesCast/RootViewController.m313709103#49#0#49#0#0"0(22@67"'iPhoneStreamingPlayerViewController' may not respond to '-stopAll'313709103#461#135#0(6@52"/Users/jeff/Documents/BluesCast/RootViewController.m313709103#208#0#208#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313709103#596#113#0(6@52"/Users/jeff/Documents/BluesCast/RootViewController.m313709103#208#0#208#0#0"0(0#0#52"/Users/jeff/Documents/BluesCast/RootViewController.m9047007968#1905"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/RootViewController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/SpeakHereAppDelegate.o /Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313708059.183978
+e313708059.350327
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/SpeakHereAppDelegate.o
+x/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m: In function '-[SpeakHereAppDelegate applicationDidFinishLaunching:]':
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: 'SpeakHereAppDelegate' may not respond to '-chooseNonDuplicatingSequence:max:array:'
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: (Messages without a matching method signature
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: '...' as arguments.)
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m: In function '-[SpeakHereAppDelegate chooseNonDuplicatingSequence:max:array:]':
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:181: warning: unused variable 'c'
+lSLF07#2@62"Compile /Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m313708059#313708059#0(816"/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m: In function '-[SpeakHereAppDelegate applicationDidFinishLaunching:]':/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: 'SpeakHereAppDelegate' may not respond to '-chooseNonDuplicatingSequence:max:array:'/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: (Messages without a matching method signature/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: will be assumed to return 'id' and accept/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: '...' as arguments.)/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m: In function '-[SpeakHereAppDelegate chooseNonDuplicatingSequence:max:array:]':/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:181: warning: unused variable 'c'3(22@84"'SpeakHereAppDelegate' may not respond to '-chooseNonDuplicatingSequence:max:array:'313708059#126#153#0(6@54"/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m313707592#91#0#91#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313708059#279#114#0(6@54"/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m313707592#91#0#91#0#0"0(22@19"Unused variable 'c'313708059#727#89#0(6@54"/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m313707592#181#0#181#0#19"unused variable '*'0(0#0#54"/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m9048357952#1909"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/SpeakHereAppDelegate.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/StreamEditorViewController.o /Users/jeff/Documents/BluesCast/StreamEditorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313709182.280551
+e313709182.801304
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/StreamEditorViewController.o
+x/Users/jeff/Documents/BluesCast/StreamEditorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/StreamEditorViewController.m: In function '-[StreamEditorViewController submitChanges:]':
+o/Users/jeff/Documents/BluesCast/StreamEditorViewController.m:49: warning: 'StreamEditorViewController' may not respond to '-saveStationURL'
+o/Users/jeff/Documents/BluesCast/StreamEditorViewController.m:49: warning: (Messages without a matching method signature
+o/Users/jeff/Documents/BluesCast/StreamEditorViewController.m:49: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Documents/BluesCast/StreamEditorViewController.m:49: warning: '...' as arguments.)
+o/Users/jeff/Documents/BluesCast/StreamEditorViewController.m: In function '-[StreamEditorViewController saveStationURL]':
+o/Users/jeff/Documents/BluesCast/StreamEditorViewController.m:113: warning: 'UIViewController' may not respond to '-tableView'
+lSLF07#2@68"Compile /Users/jeff/Documents/BluesCast/StreamEditorViewController.m313709182#313709182#0(841"/Users/jeff/Documents/BluesCast/StreamEditorViewController.m: In function '-[StreamEditorViewController submitChanges:]':/Users/jeff/Documents/BluesCast/StreamEditorViewController.m:49: warning: 'StreamEditorViewController' may not respond to '-saveStationURL'/Users/jeff/Documents/BluesCast/StreamEditorViewController.m:49: warning: (Messages without a matching method signature/Users/jeff/Documents/BluesCast/StreamEditorViewController.m:49: warning: will be assumed to return 'id' and accept/Users/jeff/Documents/BluesCast/StreamEditorViewController.m:49: warning: '...' as arguments.)/Users/jeff/Documents/BluesCast/StreamEditorViewController.m: In function '-[StreamEditorViewController saveStationURL]':/Users/jeff/Documents/BluesCast/StreamEditorViewController.m:113: warning: 'UIViewController' may not respond to '-tableView'3(22@65"'StreamEditorViewController' may not respond to '-saveStationURL'313709182#122#140#0(6@60"/Users/jeff/Documents/BluesCast/StreamEditorViewController.m313709182#49#0#49#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313709182#262#120#0(6@60"/Users/jeff/Documents/BluesCast/StreamEditorViewController.m313709182#49#0#49#0#0"0(22@50"'UIViewController' may not respond to '-tableView'313709182#715#126#0(6@60"/Users/jeff/Documents/BluesCast/StreamEditorViewController.m313709182#113#0#113#0#26"'*' may not respond to '*'0(0#0#60"/Users/jeff/Documents/BluesCast/StreamEditorViewController.m9081307168#1921"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/StreamEditorViewController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/StreamEditorViewController.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/TopicsViewController.o /Users/jeff/Documents/BluesCast/TopicsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313706216.194464
+e313706216.320696
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/TopicsViewController.o
+x/Users/jeff/Documents/BluesCast/TopicsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m: In function '-[TopicsViewController navigationController:willShowViewController:animated:]':
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:42: warning: 'UIViewController' may not respond to '-CurrentLevel'
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:42: warning: (Messages without a matching method signature
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:42: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:42: warning: '...' as arguments.)
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:49: warning: 'TopicsViewController' may not respond to '-hideToolbar'
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m: In function '-[TopicsViewController navigationController:didShowViewController:animated:]':
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:58: warning: 'UIViewController' may not respond to '-CurrentLevel'
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:61: warning: 'UIViewController' may not respond to '-CurrentLevel'
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:63: warning: 'TopicsViewController' may not respond to '-showToolbar'
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:65: warning: 'TopicsViewController' may not respond to '-hideToolbar'
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:68: warning: 'TopicsViewController' may not respond to '-hideToolbar'
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m: At top level:
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:284: warning: property 'toolbar' requires method '-toolbar' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:284: warning: property 'toolbar' requires the method 'setToolbar:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@62"Compile /Users/jeff/Documents/BluesCast/TopicsViewController.m313706216#313706216#0(1937"/Users/jeff/Documents/BluesCast/TopicsViewController.m: In function '-[TopicsViewController navigationController:willShowViewController:animated:]':/Users/jeff/Documents/BluesCast/TopicsViewController.m:42: warning: 'UIViewController' may not respond to '-CurrentLevel'/Users/jeff/Documents/BluesCast/TopicsViewController.m:42: warning: (Messages without a matching method signature/Users/jeff/Documents/BluesCast/TopicsViewController.m:42: warning: will be assumed to return 'id' and accept/Users/jeff/Documents/BluesCast/TopicsViewController.m:42: warning: '...' as arguments.)/Users/jeff/Documents/BluesCast/TopicsViewController.m:49: warning: 'TopicsViewController' may not respond to '-hideToolbar'/Users/jeff/Documents/BluesCast/TopicsViewController.m: In function '-[TopicsViewController navigationController:didShowViewController:animated:]':/Users/jeff/Documents/BluesCast/TopicsViewController.m:58: warning: 'UIViewController' may not respond to '-CurrentLevel'/Users/jeff/Documents/BluesCast/TopicsViewController.m:61: warning: 'UIViewController' may not respond to '-CurrentLevel'/Users/jeff/Documents/BluesCast/TopicsViewController.m:63: warning: 'TopicsViewController' may not respond to '-showToolbar'/Users/jeff/Documents/BluesCast/TopicsViewController.m:65: warning: 'TopicsViewController' may not respond to '-hideToolbar'/Users/jeff/Documents/BluesCast/TopicsViewController.m:68: warning: 'TopicsViewController' may not respond to '-hideToolbar'/Users/jeff/Documents/BluesCast/TopicsViewController.m: At top level:/Users/jeff/Documents/BluesCast/TopicsViewController.m:284: warning: property 'toolbar' requires method '-toolbar' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/TopicsViewController.m:284: warning: property 'toolbar' requires the method 'setToolbar:' to be defined - use @synthesize, @dynamic or provide a method implementation11(22@53"'UIViewController' may not respond to '-CurrentLevel'313706216#149#122#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#42#0#42#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313706216#271#114#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#42#0#42#0#0"0(22@56"'TopicsViewController' may not respond to '-hideToolbar'313706216#584#125#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#49#0#49#0#26"'*' may not respond to '*'0(22@53"'UIViewController' may not respond to '-CurrentLevel'313706216#857#122#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#58#0#58#0#26"'*' may not respond to '*'0(22@53"'UIViewController' may not respond to '-CurrentLevel'313706216#979#122#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#61#0#61#0#26"'*' may not respond to '*'0(22@56"'TopicsViewController' may not respond to '-showToolbar'313706216#1101#125#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#63#0#63#0#26"'*' may not respond to '*'0(22@56"'TopicsViewController' may not respond to '-hideToolbar'313706216#1226#125#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#65#0#65#0#26"'*' may not respond to '*'0(22@56"'TopicsViewController' may not respond to '-hideToolbar'313706216#1351#125#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#68#0#68#0#26"'*' may not respond to '*'0(23@13"At top level:313706216#1476#70#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#0#0#0#0#0"0(22@122"Property 'toolbar' requires method '-toolbar' to be defined - use @synthesize, @dynamic or provide a method implementation313706216#1546#192#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#284#0#284#0#0"0(22@129"Property 'toolbar' requires the method 'setToolbar:' to be defined - use @synthesize, @dynamic or provide a method implementation313706216#1738#199#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m313705926#284#0#284#0#0"0(0#0#54"/Users/jeff/Documents/BluesCast/TopicsViewController.m9098764672#1909"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/TopicsViewController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/TopicsViewController.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/iPhoneStreamingPlayerViewController.o /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313701902.770338
+e313701902.955472
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/iPhoneStreamingPlayerViewController.o
+x/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:575: warning: property 'lvlMeter_in' requires method '-lvlMeter_in' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:575: warning: property 'lvlMeter_in' requires the method 'setLvlMeter_in:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:575: warning: incomplete implementation of class 'iPhoneStreamingPlayerViewController'
+o/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:575: warning: method definition for '-updateProgress:' not found
+lSLF07#2@77"Compile /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m313701902#313701902#0(729"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:575: warning: property 'lvlMeter_in' requires method '-lvlMeter_in' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:575: warning: property 'lvlMeter_in' requires the method 'setLvlMeter_in:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:575: warning: incomplete implementation of class 'iPhoneStreamingPlayerViewController'/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:575: warning: method definition for '-updateProgress:' not found4(22@130"Property 'lvlMeter_in' requires method '-lvlMeter_in' to be defined - use @synthesize, @dynamic or provide a method implementation313701902#0#215#0(6@69"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m313630579#575#0#575#0#0"0(22@137"Property 'lvlMeter_in' requires the method 'setLvlMeter_in:' to be defined - use @synthesize, @dynamic or provide a method implementation313701902#215#222#0(6@69"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m313630579#575#0#575#0#0"0(22@72"Incomplete implementation of class 'iPhoneStreamingPlayerViewController'313701902#437#157#0(6@69"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m313630579#575#0#575#0#38"incomplete implementation of class '*'0(22@50"Method definition for '-updateProgress:' not found313701902#594#135#0(6@69"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m313630579#575#0#575#0#35"method definition for '*' not found0(0#0#69"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m9109896224#1939"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/iPhoneStreamingPlayerViewController.o0#
+
+CCompileC build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/main.o /Users/jeff/Documents/BluesCast/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313547201.801489
+e313547201.945320
+r1
+xCompileC
+xbuild/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/main.o
+x/Users/jeff/Documents/BluesCast/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/jeff/Documents/BluesCast/main.m313547201#313547201#0(0"0(0#0#38"/Users/jeff/Documents/BluesCast/main.m8954922976#1877"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/main.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/DetailView.xib
+s313547199.703107
+e313547200.085142
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib313547199#313547200#0(0"0(0#0#46"/Users/jeff/Documents/BluesCast/DetailView.xib8964408512#551"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/DetailView.nib /Users/jeff/Documents/BluesCast/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/Information.xib
+s313547199.774575
+e313547200.241121
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/Information.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@26"CompileXIB Information.xib313547199#313547200#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#47"/Users/jeff/Documents/BluesCast/Information.xib8964223424#553"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Information.nib /Users/jeff/Documents/BluesCast/Information.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/MainWindow.xib
+s313547199.739550
+e313547200.112576
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib313547199#313547200#0(0"0(0#0#46"/Users/jeff/Documents/BluesCast/MainWindow.xib8964346016#551"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/MainWindow.nib /Users/jeff/Documents/BluesCast/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/RootViewController.xib
+s313547199.698889
+e313547200.086299
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib313547199#313547200#0(0"0(0#0#54"/Users/jeff/Documents/BluesCast/RootViewController.xib8964571040#567"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/RootViewController.nib /Users/jeff/Documents/BluesCast/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/StreamEditorViewController.xib
+s313702141.095128
+e313702141.573315
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/StreamEditorViewController.xib
+lSLF07#2@41"CompileXIB StreamEditorViewController.xib313702141#313702141#0(0"0(0#0#62"/Users/jeff/Documents/BluesCast/StreamEditorViewController.xib9087456128#583"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/StreamEditorViewController.nib /Users/jeff/Documents/BluesCast/StreamEditorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib
+s313701902.246609
+e313701902.769491
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib:67: warning: This object has a customized accessibility attributes. Accessibility attributes will be ignored on iOS versions prior to 3.0.
+lSLF07#2@50"CompileXIB iPhoneStreamingPlayerViewController.xib313701902#313701902#0(252"/* com.apple.ibtool.document.warnings *//Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib:67: warning: This object has a customized accessibility attributes. Accessibility attributes will be ignored on iOS versions prior to 3.0.1(22@125"This object has a customized accessibility attributes. Accessibility attributes will be ignored on iOS versions prior to 3.0.313701902#18446744073709551615#0#0(6@71"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib313626761#67#0#67#0#0"0(0#0#71"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib9091535936#601"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/iPhoneStreamingPlayerViewController.nib /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Data.plist Data.plist
+s313701902.263532
+e313701902.387044
+r1
+xCopyPlistFile
+x/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Data.plist
+xData.plist
+o/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist:77: warning: Insecure world writable dir /usr in PATH, mode 040777
+lSLF07#2@15"Copy Data.plist313701902#313701902#0(154"/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist:77: warning: Insecure world writable dir /usr in PATH, mode 0407770(0#0#42"/Users/jeff/Documents/BluesCast/Data.plist9090985536#373"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Data.plist --outdir /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+
+CCpResource build/Debug-iphonesimulator/BluesCast.app/Default.png Default.png
+s313547199.699447
+e313547199.794270
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BluesCast.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png313547199#313547199#0(0"0(0#0#43"/Users/jeff/Documents/BluesCast/Default.png8964548736#450"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jeff/Documents/BluesCast/Default.png /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+
+CCpResource build/Debug-iphonesimulator/BluesCast.app/about.png about.png
+s313547199.776595
+e313547199.853980
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BluesCast.app/about.png
+xabout.png
+lSLF07#2@14"Copy about.png313547199#313547199#0(0"0(0#0#41"/Users/jeff/Documents/BluesCast/about.png8964186528#448"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jeff/Documents/BluesCast/about.png /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+
+CCpResource build/Debug-iphonesimulator/BluesCast.app/icon.png icon.png
+s313547199.772932
+e313547199.815067
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BluesCast.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png313547199#313547199#0(0"0(0#0#40"/Users/jeff/Documents/BluesCast/icon.png8964273888#447"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jeff/Documents/BluesCast/icon.png /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+
+CCpResource build/Debug-iphonesimulator/BluesCast.app/loadingbutton.png loadingbutton.png
+s313547199.701886
+e313547199.730278
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BluesCast.app/loadingbutton.png
+xloadingbutton.png
+lSLF07#2@22"Copy loadingbutton.png313547199#313547199#0(0"0(0#0#49"/Users/jeff/Documents/BluesCast/loadingbutton.png8964447616#456"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jeff/Documents/BluesCast/loadingbutton.png /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+
+CCpResource build/Debug-iphonesimulator/BluesCast.app/next.png next.png
+s313547199.777740
+e313547199.849603
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BluesCast.app/next.png
+xnext.png
+lSLF07#2@13"Copy next.png313547199#313547199#0(0"0(0#0#40"/Users/jeff/Documents/BluesCast/next.png8964138112#447"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jeff/Documents/BluesCast/next.png /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+
+CCpResource build/Debug-iphonesimulator/BluesCast.app/pausebutton.png pausebutton.png
+s313547199.702486
+e313547199.739368
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BluesCast.app/pausebutton.png
+xpausebutton.png
+lSLF07#2@20"Copy pausebutton.png313547199#313547199#0(0"0(0#0#47"/Users/jeff/Documents/BluesCast/pausebutton.png8964427904#454"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jeff/Documents/BluesCast/pausebutton.png /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+
+CCpResource build/Debug-iphonesimulator/BluesCast.app/playbutton.png playbutton.png
+s313547199.700636
+e313547199.772820
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BluesCast.app/playbutton.png
+xplaybutton.png
+lSLF07#2@19"Copy playbutton.png313547199#313547199#0(0"0(0#0#46"/Users/jeff/Documents/BluesCast/playbutton.png8964494080#453"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jeff/Documents/BluesCast/playbutton.png /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+
+CCpResource build/Debug-iphonesimulator/BluesCast.app/rocket88.png rocket88.png
+s313547199.700022
+e313547199.776363
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BluesCast.app/rocket88.png
+xrocket88.png
+lSLF07#2@17"Copy rocket88.png313547199#313547199#0(0"0(0#0#44"/Users/jeff/Documents/BluesCast/rocket88.png8964519424#451"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jeff/Documents/BluesCast/rocket88.png /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+
+CCpResource build/Debug-iphonesimulator/BluesCast.app/stopbutton.png stopbutton.png
+s313547199.701283
+e313547199.729672
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BluesCast.app/stopbutton.png
+xstopbutton.png
+lSLF07#2@19"Copy stopbutton.png313547199#313547199#0(0"0(0#0#46"/Users/jeff/Documents/BluesCast/stopbutton.png8964466336#453"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jeff/Documents/BluesCast/stopbutton.png /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+
+CGenerateDSYMFile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app.dSYM /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast
+s313709182.914595
+e313709182.958324
+r1
+xGenerateDSYMFile
+x/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app.dSYM
+x/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/BluesCast.app.dSYM build/Debug-iphonesimulator/BluesCast.app/BluesCast313709182#313709182#0(0"0(0#0#83"/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast9105967904#368"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast -o /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app.dSYM0#
+
+CLd /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast normal i386
+s313709182.801403
+e313709182.914473
+r1
+xLd
+x/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast
+xnormal
+xi386
+lSLF07#2@88"Link /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast313709182#313709182#0(0"0(0#0#0"9106988448#985"    cd /Users/jeff/Documents/BluesCast    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -filelist /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/Objects-normal/i386/BluesCast.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework AudioToolbox -framework OpenGLES -framework QuartzCore -framework MediaPlayer -o /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/BluesCast0#
+
+CProcessInfoPlistFile /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Info.plist BluesCast-Info.plist
+s313547199.683741
+e313547199.698118
+r1
+xProcessInfoPlistFile
+x/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Info.plist
+xBluesCast-Info.plist
+lSLF07#2@28"Process BluesCast-Info.plist313547199#313547199#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast-Info.plist8961087456#464"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BluesCast-Info.plist -genpkginfo /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app/Info.plist0#
+
+CProcessPCH /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-aqhxambdufiobfbfynaqabtdxfkh/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295225874.838703
+e295225875.568978
+r1
+xProcessPCH
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-aqhxambdufiobfbfynaqabtdxfkh/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch295225874#295225875#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300911832#1719"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-aqhxambdufiobfbfynaqabtdxfkh/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-atwdlbcvvvuoaaggwlcdwgmqooit/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s293747279.285330
+e293747280.453916
+r1
+xProcessPCH
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-atwdlbcvvvuoaaggwlcdwgmqooit/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch293747279#293747280#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300911832#1717"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-atwdlbcvvvuoaaggwlcdwgmqooit/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bgwgpysnbpitdgcdbcynuszfitbt/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s286672295.718616
+e286672296.618953
+r1
+xProcessPCH
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bgwgpysnbpitdgcdbcynuszfitbt/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch286672295#286672296#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300903632#1717"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bgwgpysnbpitdgcdbcynuszfitbt/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313547200.448961
+e313547201.801364
+r1
+xProcessPCH
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch313547200#313547201#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch8961187424#1774"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cdawwjuayylttwbrfocxgvqpwwgt/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bkdlqygbczpiprbrhtsifljptcgn/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s293747279.286756
+e293747280.835531
+r1
+xProcessPCH++
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bkdlqygbczpiprbrhtsifljptcgn/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch293747279#293747280#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300911832#1738"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bkdlqygbczpiprbrhtsifljptcgn/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bwheiomrtbiblycmmmypnklpwgje/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s293747279.288788
+e293747280.155585
+r1
+xProcessPCH++
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bwheiomrtbiblycmmmypnklpwgje/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch293747279#293747280#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300911832#1728"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bwheiomrtbiblycmmmypnklpwgje/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cicfcprlxnpocierijpsyivmozvw/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s313547200.450614
+e313547200.892097
+r1
+xProcessPCH++
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cicfcprlxnpocierijpsyivmozvw/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch313547200#313547200#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch8957355808#1741"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-cicfcprlxnpocierijpsyivmozvw/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-clbvdfwqptqcibcqopsajnwvqwuu/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s286672295.719568
+e286672296.785203
+r1
+xProcessPCH++
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-clbvdfwqptqcibcqopsajnwvqwuu/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch286672295#286672296#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300903632#1738"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-clbvdfwqptqcibcqopsajnwvqwuu/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-eriuxgbnokqwwpbdvhazyekdhhpu/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s286672295.720250
+e286672295.971801
+r1
+xProcessPCH++
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-eriuxgbnokqwwpbdvhazyekdhhpu/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch286672295#286672295#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300903632#1728"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-eriuxgbnokqwwpbdvhazyekdhhpu/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-fclqsjtdnizaapgcrwdaguhotfwa/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s313547200.449904
+e313547201.618889
+r1
+xProcessPCH++
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-fclqsjtdnizaapgcrwdaguhotfwa/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch313547200#313547201#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch8959934496#1795"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-fclqsjtdnizaapgcrwdaguhotfwa/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdxeiedrlxpjcpctrtnvigwsruiu/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s295225874.839662
+e295225875.847920
+r1
+xProcessPCH++
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdxeiedrlxpjcpctrtnvigwsruiu/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch295225874#295225875#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300911832#1740"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdxeiedrlxpjcpctrtnvigwsruiu/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-heztjsasbgtzxedbnahzklhfqzfn/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s295225874.840364
+e295225875.075506
+r1
+xProcessPCH++
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-heztjsasbgtzxedbnahzklhfqzfn/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch295225874#295225875#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300911832#1730"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator -I/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources/i386 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Debug-iphonesimulator/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-heztjsasbgtzxedbnahzklhfqzfn/BluesCast_Prefix.pch.gch0#
+
+CTouch /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app
+s313709182.958417
+e313709182.960923
+r1
+xTouch
+x/Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app
+lSLF07#2@79"Touch /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app313709182#313709182#0(0"0(0#0#0"9109566848#266"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jeff/Documents/BluesCast/build/Debug-iphonesimulator/BluesCast.app0#
+

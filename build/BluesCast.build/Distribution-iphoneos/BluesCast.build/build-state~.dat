@@ -1,0 +1,1297 @@
+TBluesCast
+v7
+r0
+t287008162.019286
+cCheck dependencies
+cCpResource build/Distribution-iphoneos/BluesCast.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Info.plist BluesCast-Info.plist
+cCompileXIB /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib
+cCompileXIB /Users/jeff/Documents/BluesCast/RootViewController.xib
+cCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Default.png Default.png
+cCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/rocket88.png rocket88.png
+cCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/playbutton.png playbutton.png
+cCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/stopbutton.png stopbutton.png
+cCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/loadingbutton.png loadingbutton.png
+cCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/pausebutton.png pausebutton.png
+cCompileXIB /Users/jeff/Documents/BluesCast/DetailView.xib
+cCopyPlistFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Data.plist Data.plist
+cCompileXIB /Users/jeff/Documents/BluesCast/MainWindow.xib
+cCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/icon.png icon.png
+cCompileXIB /Users/jeff/Documents/BluesCast/Information.xib
+cCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/about.png about.png
+cProcessPCH /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bxxkyqvjrsqyxbdxpjtelhzwxgwl/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdgewiqioiaycfcipekpgtesmazl/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal armv6 c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/main.o /Users/jeff/Documents/BluesCast/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQLevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/GLLevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/LevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AlertRun.o /Users/jeff/Documents/BluesCast/AlertRun.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/iPhoneStreamingPlayerViewController.o /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AudioStreamer.o /Users/jeff/Documents/BluesCast/AudioStreamer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/RootViewController.o /Users/jeff/Documents/BluesCast/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/TopicsViewController.o /Users/jeff/Documents/BluesCast/TopicsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQPlayer.o /Users/jeff/Documents/BluesCast/AQPlayer.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQRecorder.o /Users/jeff/Documents/BluesCast/AQRecorder.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/SpeakHereAppDelegate.o /Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CADebugMacros.o /Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CAStreamBasicDescription.o /Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CAXException.o /Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/MeterTable.o /Users/jeff/Documents/BluesCast/MeterTable.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/FavoritesTableController.o /Users/jeff/Documents/BluesCast/FavoritesTableController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/InformationController.o /Users/jeff/Documents/BluesCast/InformationController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast normal armv6
+cGenerateDSYMFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app.dSYM /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast
+cProcessProductPackaging "/Users/jeff/Library/MobileDevice/Provisioning Profiles/3B05286E-30D5-4533-910C-ACA7FCB9DEA1.mobileprovision" /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/embedded.mobileprovision
+cTouch /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast.xcent
+cCodeSign /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004B47D28D0000000000000110
+t1262998157
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+c000000004A0BA04000000000000000DD
+t1242275904
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A12212500000000002CE5F0
+t1242702117
+s2942448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioQueue.h
+c000000004A0DADB90000000000011DF0
+t1242410425
+s73200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB90000000000000A22
+t1242410425
+s2594
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004A121FB10000000000193E60
+t1242701745
+s1654368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004A0BAE1900000000000004CF
+t1242279449
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004A0BAD8C000000000000F342
+t1242279308
+s62274
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFByteOrder.h
+c000000004A0BABF90000000000001983
+t1242278905
+s6531
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004A0BABFA0000000000000A99
+t1242278906
+s2713
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004A0E2598000000000000022F
+t1242441112
+s559
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A1223F00000000000187E90
+t1242702832
+s1605264
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A0BB177000000000000094F
+t1242280311
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A0BB1770000000000000A61
+t1242280311
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A0BB1770000000000009369
+t1242280311
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A0BB1770000000000002576
+t1242280311
+s9590
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A1220EF00000000000380E0
+t1242702063
+s229600
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004A0BB20A000000000000031C
+t1242280458
+s796
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BB209000000000000007D
+t1242280457
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A12211900000000001CA4E0
+t1242702105
+s1877216
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/ConditionalMacros.h
+c000000004A0BB1010000000000006860
+t1242280193
+s26720
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/ctype.h
+c000000004A0BA3140000000000002C3A
+t1242276628
+s11322
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/libkern/OSAtomic.h
+c000000004A0BA31400000000000024B9
+t1242276628
+s9401
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/math.h
+c000000004A0BA2B100000000000004F1
+t1242276529
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/pthread.h
+c000000004A0BA314000000000000380F
+t1242276628
+s14351
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdio.h
+c000000004A0BA3140000000000003D1D
+t1242276628
+s15645
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdlib.h
+c000000004A0BA3140000000000002AA4
+t1242276628
+s10916
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/string.h
+c000000004A0BA3140000000000001731
+t1242276628
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/syslog.h
+c000000004A0BA31400000000000003EC
+t1242276628
+s1004
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdarg.h
+c0000000049FBCC3900000000000010DD
+t1241238585
+s4317
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stddef.h
+c0000000049FBCC390000000000003197
+t1241238585
+s12695
+
+N/Users/jeff/Documents/BluesCast/AQPlayer.h
+c0000000049D1290C000000000000118F
+t1238444300
+s4495
+i<AudioToolbox/AudioToolbox.h>
+i"CAStreamBasicDescription.h"
+i"CAXException.h"
+
+N/Users/jeff/Documents/BluesCast/AQPlayer.mm
+c0000000049D1290C0000000000002959
+t1238444300
+s10585
+i"AQPlayer.h"
+
+N/Users/jeff/Documents/BluesCast/AQRecorder.h
+c0000000049D1290C0000000000000F62
+t1238444300
+s3938
+i<AudioToolbox/AudioToolbox.h>
+i<Foundation/Foundation.h>
+i<libkern/OSAtomic.h>
+i"CAStreamBasicDescription.h"
+i"CAXException.h"
+
+N/Users/jeff/Documents/BluesCast/AQRecorder.mm
+c000000004A57CCF2000000000000317F
+t1247268082
+s12671
+i"AQRecorder.h"
+
+N/Users/jeff/Documents/BluesCast/AlertRun.h
+c000000004A0F290400000000000001F9
+t1242507524
+s505
+i<Foundation/Foundation.h>
+
+N/Users/jeff/Documents/BluesCast/AlertRun.m
+c000000004A186E8600000000000002A7
+t1243115142
+s679
+i"AlertRun.h"
+
+N/Users/jeff/Documents/BluesCast/AudioStreamer.h
+c000000004A7307FA0000000000001961
+t1249052666
+s6497
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+i<pthread.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/jeff/Documents/BluesCast/AudioStreamer.m
+c000000004A730BB4000000000000A4DE
+t1249053620
+s42206
+i"AudioStreamer.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.h
+c0000000049D1290C0000000000000E6A
+t1238444300
+s3690
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioQueue.h>
+i"MeterTable.h"
+i"CAXException.h"
+
+N/Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm
+c0000000049D1290C0000000000002A7C
+t1238444300
+s10876
+i"AQLevelMeter.h"
+i"LevelMeter.h"
+i"GLLevelMeter.h"
+i"CAStreamBasicDescription.h"
+
+N/Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.h
+c0000000049D1290C0000000000000ACE
+t1238444300
+s2766
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"LevelMeter.h"
+
+N/Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m
+c0000000049D1290C000000000000286D
+t1238444300
+s10349
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"GLLevelMeter.h"
+
+N/Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.h
+c0000000049D1290C0000000000001095
+t1238444300
+s4245
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m
+c0000000049D1290C000000000000219A
+t1238444300
+s8602
+i"LevelMeter.h"
+
+N/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch
+c000000004A6E3A0600000000000000DE
+t1248737798
+s222
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/Data.plist
+c000000004B6B2D700000000000001C2E
+t1265315184
+s7214
+
+N/Users/jeff/Documents/BluesCast/Default.png
+c000000004A66390E00000000000402CA
+t1248213262
+s262858
+
+N/Users/jeff/Documents/BluesCast/DetailView.xib
+c0000000049B419D700000000000016FC
+t1236539863
+s5884
+
+N/Users/jeff/Documents/BluesCast/FavoritesTableController.h
+c000000004A70A1F600000000000001EB
+t1248895478
+s491
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/FavoritesTableController.m
+c000000004B6AC27200000000000023E7
+t1265287794
+s9191
+i"FavoritesTableController.h"
+i"SpeakHereAppDelegate.h"
+
+N/Users/jeff/Documents/BluesCast/Information.xib
+c000000004B6AC180000000000000632A
+t1265287552
+s25386
+
+N/Users/jeff/Documents/BluesCast/InformationController.h
+c000000004A1BFFEB0000000000000161
+t1243348971
+s353
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/InformationController.m
+c000000004A1BFFEB0000000000000757
+t1243348971
+s1879
+i"InformationController.h"
+
+N/Users/jeff/Documents/BluesCast/MainWindow.xib
+c000000004A5FAE1C00000000000022E9
+t1247784476
+s8937
+
+N/Users/jeff/Documents/BluesCast/MeterTable.cpp
+c0000000049D1290C0000000000000CDF
+t1238444300
+s3295
+i"MeterTable.h"
+
+N/Users/jeff/Documents/BluesCast/MeterTable.h
+c0000000049D1290C0000000000000D9B
+t1238444300
+s3483
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+
+N/Users/jeff/Documents/BluesCast/RootViewController.h
+c000000004A71D19F000000000000036C
+t1248973215
+s876
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/RootViewController.m
+c000000004B6AC27200000000000026B3
+t1265287794
+s9907
+i"RootViewController.h"
+i"SpeakHereAppDelegate.h"
+i"iPhoneStreamingPlayerViewController.h"
+
+N/Users/jeff/Documents/BluesCast/RootViewController.xib
+c000000004A6E2B5C00000000000020B7
+t1248734044
+s8375
+
+N/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.h
+c000000004A7201030000000000000D5D
+t1248985347
+s3421
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m
+c000000004B6AC272000000000000181A
+t1265287794
+s6170
+i"SpeakHereAppDelegate.h"
+i"iPhoneStreamingPlayerViewController.h"
+i"TopicsViewController.h"
+
+N/Users/jeff/Documents/BluesCast/TopicsViewController.h
+c000000004A99418F0000000000000468
+t1251557775
+s1128
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+i"FavoritesTableController.h"
+i"SpeakHereAppDelegate.h"
+i"InformationController.h"
+
+N/Users/jeff/Documents/BluesCast/TopicsViewController.m
+c000000004A99416A0000000000001DE1
+t1251557738
+s7649
+i"TopicsViewController.h"
+
+N/Users/jeff/Documents/BluesCast/about.png
+c000000004A99451500000000000307A9
+t1251558677
+s198569
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast.xcent
+t1265315361
+s317
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQLevelMeter.o
+t1265315361
+s49436
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQPlayer.o
+t1265315361
+s40636
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQRecorder.o
+t1265315361
+s42252
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AlertRun.o
+t1265315361
+s16664
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AudioStreamer.o
+t1265315361
+s69580
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/BluesCast.LinkFileList
+c000000004B6B2E1F000000000000093A
+t1265315359
+s2362
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CADebugMacros.o
+t1265315361
+s3408
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CAStreamBasicDescription.o
+t1265315361
+s27612
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CAXException.o
+t1265315361
+s3848
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/FavoritesTableController.o
+t1265315361
+s46900
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/GLLevelMeter.o
+t1265315361
+s28104
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/InformationController.o
+t1265315361
+s32360
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/LevelMeter.o
+t1265315361
+s26360
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/MeterTable.o
+t1265315361
+s6360
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/RootViewController.o
+t1265315361
+s52860
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/SpeakHereAppDelegate.o
+t1265315361
+s50216
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/TopicsViewController.o
+t1265315361
+s51276
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/iPhoneStreamingPlayerViewController.o
+t1265315361
+s75900
+
+N/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/main.o
+t1265315361
+s6424
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app
+t1265315362
+s782
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app.dSYM
+t1265315361
+s102
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast
+t1265315361
+s124168
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Data.plist
+t1265315359
+s2100
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Default.png
+t1265315359
+s285084
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/DetailView.nib
+t1265315359
+s1106
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Info.plist
+t1265315359
+s683
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Information.nib
+t1265315359
+s3457
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/MainWindow.nib
+t1265315359
+s1331
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/PkgInfo
+t1265315359
+s8
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/ResourceRules.plist
+t1265315359
+s485
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/RootViewController.nib
+t1265315359
+s1491
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/about.png
+t1265315359
+s154012
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/embedded.mobileprovision
+t1265315361
+s7041
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/iPhoneStreamingPlayerViewController.nib
+t1265315359
+s5392
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/icon.png
+t1265315359
+s6831
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/loadingbutton.png
+t1265315359
+s4237
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/pausebutton.png
+t1265315359
+s3880
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/playbutton.png
+t1265315359
+s6989
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/rocket88.png
+t1265315359
+s154280
+
+N/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/stopbutton.png
+t1265315359
+s6583
+
+N/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.h
+c000000004A7309250000000000000836
+t1249052965
+s2102
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m
+c000000004A993A9E0000000000003454
+t1251555998
+s13396
+i"iPhoneStreamingPlayerViewController.h"
+i"AudioStreamer.h"
+i<QuartzCore/CoreAnimation.h>
+i<MediaPlayer/MediaPlayer.h>
+i<CFNetwork/CFNetwork.h>
+i"AlertRun.h"
+
+N/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib
+c000000004B6AC0E60000000000009859
+t1265287398
+s39001
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp
+c0000000049D1290C0000000000000C00
+t1238444300
+s3072
+i"CADebugMacros.h"
+i<stdio.h>
+i<stdarg.h>
+i<syslog.h>
+i<stdio.h>
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.h
+c0000000049D1290C0000000000004C2D
+t1238444300
+s19501
+i<CoreAudio/CoreAudioTypes.h>
+i"CoreAudioTypes.h"
+i"CADebugPrintf.h"
+i<pthread.h>
+i"CAHostTimeBase.h"
+i"CAHostTimeBase.h"
+i"CADebugger.h"
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CAMath.h
+c0000000049D1290C0000000000000C57
+t1238444300
+s3159
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreAudioTypes.h>
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp
+c0000000049D1290C0000000000004A29
+t1238444300
+s18985
+i"CAStreamBasicDescription.h"
+i"CAMath.h"
+i<CoreFoundation/CFByteOrder.h>
+i<CFByteOrder.h>
+i<stddef.h>
+i"CALogMacros.h"
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.h
+c0000000049D1290C0000000000002ED5
+t1238444300
+s11989
+i<CoreAudio/CoreAudioTypes.h>
+i<CoreFoundation/CoreFoundation.h>
+i"CoreAudioTypes.h"
+i"CoreFoundation.h"
+i"CADebugMacros.h"
+i<string.h>
+i<stdio.h>
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp
+c0000000049D1290C00000000000009DC
+t1238444300
+s2524
+i"CAXException.h"
+
+N/Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.h
+c0000000049D1290C0000000000001A33
+t1238444300
+s6707
+i<CoreFoundation/CoreFoundation.h>
+i<ConditionalMacros.h>
+i<CoreFoundation.h>
+i"CADebugMacros.h"
+i<ctype.h>
+i<stdio.h>
+i<string.h>
+
+N/Users/jeff/Documents/BluesCast/icon.png
+c000000004A994DE40000000000001691
+t1251560932
+s5777
+
+N/Users/jeff/Documents/BluesCast/loadingbutton.png
+c000000004A6629C40000000000000F4A
+t1248209348
+s3914
+
+N/Users/jeff/Documents/BluesCast/main.m
+c000000004A6E322C0000000000000165
+t1248735788
+s357
+i<UIKit/UIKit.h>
+
+N/Users/jeff/Documents/BluesCast/pausebutton.png
+c000000004A6625520000000000000BF4
+t1248208210
+s3060
+
+N/Users/jeff/Documents/BluesCast/playbutton.png
+c000000004A6635C60000000000001B39
+t1248212422
+s6969
+
+N/Users/jeff/Documents/BluesCast/rocket88.png
+c000000004A66394600000000000232A5
+t1248213318
+s144037
+
+N/Users/jeff/Documents/BluesCast/stopbutton.png
+c000000004A6634E000000000000018B2
+t1248212192
+s6322
+
+N/Users/jeff/Library/MobileDevice/Provisioning Profiles/3B05286E-30D5-4533-910C-ACA7FCB9DEA1.mobileprovision
+c000000004B6603C00000000000001B81
+t1264976832
+s7041
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bxxkyqvjrsqyxbdxpjtelhzwxgwl/BluesCast_Prefix.pch.gch
+t1265315361
+s8949860
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch.gch
+t1265315360
+s8159360
+
+N/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdgewiqioiaycfcipekpgtesmazl/BluesCast_Prefix.pch.gch
+t1265315360
+s1519844
+
+NBluesCast-Info.plist
+c000000004B6AC46500000000000003AF
+t1265288293
+s943
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287008159#287008159#0(107"[BWARN]warning: 'The Validate Built Product build setting was not enabled when building for Distribution.'1(22@99"warning: 'The Validate Built Product build setting was not enabled when building for Distribution.'287008159#18446744073709551615#0#0(1@0"0(0#1#0"4300903632#0"0#
+
+CCodeSign /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app
+s287008161.910185
+e287008162.019237
+r1
+xCodeSign
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app
+lSLF07#2@50"CodeSign build/Distribution-iphoneos/BluesCast.app287008161#287008162#0(0"0(0#0#73"/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app4300903632#658"    cd /Users/jeff/Documents/BluesCast    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Distribution: Jeff Handy" --resource-rules=/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/ResourceRules.plist --entitlements /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast.xcent /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQLevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s287008161.245413
+e287008161.657376
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQLevelMeter.o
+x/Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm287008161#287008161#0(0"0(0#0#58"/Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm4300903632#1816"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bxxkyqvjrsqyxbdxpjtelhzwxgwl/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AudioViews/AQLevelMeter.mm -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQLevelMeter.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQPlayer.o /Users/jeff/Documents/BluesCast/AQPlayer.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s287008161.344743
+e287008161.579642
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQPlayer.o
+x/Users/jeff/Documents/BluesCast/AQPlayer.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/AQPlayer.mm: In static member function 'static void AQPlayer::AQBufferCallback(void*, OpaqueAudioQueue*, AudioQueueBuffer*)':
+o/Users/jeff/Documents/BluesCast/AQPlayer.mm:66: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+lSLF07#2@51"Compile /Users/jeff/Documents/BluesCast/AQPlayer.mm287008161#287008161#0(282"/Users/jeff/Documents/BluesCast/AQPlayer.mm: In static member function 'static void AQPlayer::AQBufferCallback(void*, OpaqueAudioQueue*, AudioQueueBuffer*)':/Users/jeff/Documents/BluesCast/AQPlayer.mm:66: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'1(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'287008161#158#124#0(6@43"/Users/jeff/Documents/BluesCast/AQPlayer.mm260137100#66#0#66#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#43"/Users/jeff/Documents/BluesCast/AQPlayer.mm4300903632#1797"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bxxkyqvjrsqyxbdxpjtelhzwxgwl/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AQPlayer.mm -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQPlayer.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQRecorder.o /Users/jeff/Documents/BluesCast/AQRecorder.mm normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s287008161.461108
+e287008161.693323
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQRecorder.o
+x/Users/jeff/Documents/BluesCast/AQRecorder.mm
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jeff/Documents/BluesCast/AQRecorder.mm287008161#287008161#0(0"0(0#0#45"/Users/jeff/Documents/BluesCast/AQRecorder.mm4300903632#1801"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bxxkyqvjrsqyxbdxpjtelhzwxgwl/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AQRecorder.mm -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AQRecorder.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AlertRun.o /Users/jeff/Documents/BluesCast/AlertRun.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.247805
+e287008161.344621
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AlertRun.o
+x/Users/jeff/Documents/BluesCast/AlertRun.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/jeff/Documents/BluesCast/AlertRun.m287008161#287008161#0(0"0(0#0#42"/Users/jeff/Documents/BluesCast/AlertRun.m4300903632#1775"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AlertRun.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AlertRun.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AudioStreamer.o /Users/jeff/Documents/BluesCast/AudioStreamer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.249572
+e287008161.820419
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AudioStreamer.o
+x/Users/jeff/Documents/BluesCast/AudioStreamer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m: In function '-[AudioStreamer checkAvailableBuffers:]':
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: 'AudioStreamer' may not respond to '-updateBufferStatus:'
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: (Messages without a matching method signature
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: '...' as arguments.)
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m: In function '-[AudioStreamer checkStreamRate:]':
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:897: warning: unused variable 'rate'
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m: At top level:
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'rateReadingCount' requires method '-rateReadingCount' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'rateReadingCount' requires the method 'setRateReadingCount:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'averageStreamingRate' requires method '-averageStreamingRate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'averageStreamingRate' requires the method 'setAverageStreamingRate:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@55"Compile /Users/jeff/Documents/BluesCast/AudioStreamer.m287008161#287008161#0(1611"/Users/jeff/Documents/BluesCast/AudioStreamer.m: In function '-[AudioStreamer checkAvailableBuffers:]':/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: 'AudioStreamer' may not respond to '-updateBufferStatus:'/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: (Messages without a matching method signature/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: will be assumed to return 'id' and accept/Users/jeff/Documents/BluesCast/AudioStreamer.m:879: warning: '...' as arguments.)/Users/jeff/Documents/BluesCast/AudioStreamer.m: In function '-[AudioStreamer checkStreamRate:]':/Users/jeff/Documents/BluesCast/AudioStreamer.m:897: warning: unused variable 'rate'/Users/jeff/Documents/BluesCast/AudioStreamer.m: At top level:/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'rateReadingCount' requires method '-rateReadingCount' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'rateReadingCount' requires the method 'setRateReadingCount:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'averageStreamingRate' requires method '-averageStreamingRate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/AudioStreamer.m:1401: warning: property 'averageStreamingRate' requires the method 'setAverageStreamingRate:' to be defined - use @synthesize, @dynamic or provide a method implementation8(22@57"'AudioStreamer' may not respond to '-updateBufferStatus:'287008161#104#120#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#879#0#879#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)287008161#224#108#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#879#0#879#0#0"0(22@22"Unused variable 'rate'287008161#617#85#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#897#0#897#0#19"unused variable '*'0(23@13"At top level:287008161#702#63#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#0#0#0#0#0"0(22@140"Property 'rateReadingCount' requires method '-rateReadingCount' to be defined - use @synthesize, @dynamic or provide a method implementation287008161#765#204#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#1401#0#1401#0#0"0(22@147"Property 'rateReadingCount' requires the method 'setRateReadingCount:' to be defined - use @synthesize, @dynamic or provide a method implementation287008161#969#211#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#1401#0#1401#0#0"0(22@148"Property 'averageStreamingRate' requires method '-averageStreamingRate' to be defined - use @synthesize, @dynamic or provide a method implementation287008161#1180#212#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#1401#0#1401#0#0"0(22@155"Property 'averageStreamingRate' requires the method 'setAverageStreamingRate:' to be defined - use @synthesize, @dynamic or provide a method implementation287008161#1392#219#0(6@47"/Users/jeff/Documents/BluesCast/AudioStreamer.m270746420#1401#0#1401#0#0"0(0#0#47"/Users/jeff/Documents/BluesCast/AudioStreamer.m4300903632#1785"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AudioStreamer.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/AudioStreamer.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CADebugMacros.o /Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+s287008161.478819
+e287008161.584703
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CADebugMacros.o
+x/Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp287008161#287008161#0(0"0(0#0#64"/Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp4300903632#1813"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdgewiqioiaycfcipekpgtesmazl/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/iPublicUtility/CADebugMacros.cpp -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CADebugMacros.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CAStreamBasicDescription.o /Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+s287008161.491011
+e287008161.743997
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CAStreamBasicDescription.o
+x/Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp287008161#287008161#0(0"0(0#0#75"/Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp4300903632#1835"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdgewiqioiaycfcipekpgtesmazl/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/iPublicUtility/CAStreamBasicDescription.cpp -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CAStreamBasicDescription.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CAXException.o /Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+s287008161.579754
+e287008161.706511
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CAXException.o
+x/Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp287008161#287008161#0(0"0(0#0#63"/Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp4300903632#1811"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdgewiqioiaycfcipekpgtesmazl/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/iPublicUtility/CAXException.cpp -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/CAXException.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/FavoritesTableController.o /Users/jeff/Documents/BluesCast/FavoritesTableController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.584792
+e287008161.744283
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/FavoritesTableController.o
+x/Users/jeff/Documents/BluesCast/FavoritesTableController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m: In function '-[FavoritesTableController tableView:commitEditingStyle:forRowAtIndexPath:]':
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: 'NSArray' may not respond to '-removeObjectAtIndex:'
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: (Messages without a matching method signature
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: '...' as arguments.)
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m: In function '-[FavoritesTableController tableView:didSelectRowAtIndexPath:]':
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:233: warning: no '-stopAll' method found
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:234: warning: receiver 'iPhoneStreamingPlayerViewController' is a forward class and corresponding @interface may not exist
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:238: warning: no '-setShoutCastURL:' method found
+o/Users/jeff/Documents/BluesCast/FavoritesTableController.m:239: warning: incompatible Objective-C types 'struct iPhoneStreamingPlayerViewController *', expected 'struct UIViewController *' when passing argument 1 of 'pushViewController:animated:' from distinct Objective-C type
+lSLF07#2@66"Compile /Users/jeff/Documents/BluesCast/FavoritesTableController.m287008161#287008161#0(1412"/Users/jeff/Documents/BluesCast/FavoritesTableController.m: In function '-[FavoritesTableController tableView:commitEditingStyle:forRowAtIndexPath:]':/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: 'NSArray' may not respond to '-removeObjectAtIndex:'/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: (Messages without a matching method signature/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: will be assumed to return 'id' and accept/Users/jeff/Documents/BluesCast/FavoritesTableController.m:183: warning: '...' as arguments.)/Users/jeff/Documents/BluesCast/FavoritesTableController.m: In function '-[FavoritesTableController tableView:didSelectRowAtIndexPath:]':/Users/jeff/Documents/BluesCast/FavoritesTableController.m:233: warning: no '-stopAll' method found/Users/jeff/Documents/BluesCast/FavoritesTableController.m:234: warning: receiver 'iPhoneStreamingPlayerViewController' is a forward class and corresponding @interface may not exist/Users/jeff/Documents/BluesCast/FavoritesTableController.m:238: warning: no '-setShoutCastURL:' method found/Users/jeff/Documents/BluesCast/FavoritesTableController.m:239: warning: incompatible Objective-C types 'struct iPhoneStreamingPlayerViewController *', expected 'struct UIViewController *' when passing argument 1 of 'pushViewController:animated:' from distinct Objective-C type6(22@52"'NSArray' may not respond to '-removeObjectAtIndex:'287008161#151#126#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m286980594#183#0#183#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)287008161#277#119#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m286980594#183#0#183#0#0"0(22@26"No '-stopAll' method found287008161#743#100#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m286980594#233#0#233#0#19"no '*' method found0(22@108"Receiver 'iPhoneStreamingPlayerViewController' is a forward class and corresponding @interface may not exist287008161#843#182#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m286980594#234#0#234#0#0"0(22@35"No '-setShoutCastURL:' method found287008161#1025#109#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m286980594#238#0#238#0#19"no '*' method found0(22@204"Incompatible Objective-C types 'struct iPhoneStreamingPlayerViewController *', expected 'struct UIViewController *' when passing argument 1 of 'pushViewController:animated:' from distinct Objective-C type287008161#1134#278#0(6@58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m286980594#239#0#239#0#0"0(0#0#58"/Users/jeff/Documents/BluesCast/FavoritesTableController.m4300903632#1807"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/FavoritesTableController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/FavoritesTableController.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/GLLevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.246174
+e287008161.478714
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/GLLevelMeter.o
+x/Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m287008161#287008161#0(0"0(0#0#57"/Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m4300903632#1794"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AudioViews/GLLevelMeter.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/GLLevelMeter.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/InformationController.o /Users/jeff/Documents/BluesCast/InformationController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.597668
+e287008161.672278
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/InformationController.o
+x/Users/jeff/Documents/BluesCast/InformationController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/jeff/Documents/BluesCast/InformationController.m287008161#287008161#0(0"0(0#0#55"/Users/jeff/Documents/BluesCast/InformationController.m4300903632#1801"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/InformationController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/InformationController.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/LevelMeter.o /Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.246965
+e287008161.462789
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/LevelMeter.o
+x/Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m287008161#287008161#0(0"0(0#0#55"/Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m4300903632#1790"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/AudioViews/LevelMeter.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/LevelMeter.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/MeterTable.o /Users/jeff/Documents/BluesCast/MeterTable.cpp normal armv6 c++ com.apple.compilers.gcc.4_2
+s287008161.581535
+e287008161.661976
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/MeterTable.o
+x/Users/jeff/Documents/BluesCast/MeterTable.cpp
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/jeff/Documents/BluesCast/MeterTable.cpp287008161#287008161#0(0"0(0#0#46"/Users/jeff/Documents/BluesCast/MeterTable.cpp4300903632#1792"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdgewiqioiaycfcipekpgtesmazl/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/MeterTable.cpp -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/MeterTable.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/RootViewController.o /Users/jeff/Documents/BluesCast/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.250644
+e287008161.458113
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/RootViewController.o
+x/Users/jeff/Documents/BluesCast/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/RootViewController.m: In function '-[RootViewController viewDidLoad]':
+o/Users/jeff/Documents/BluesCast/RootViewController.m:49: warning: incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setTableDataSource:' from distinct Objective-C type
+o/Users/jeff/Documents/BluesCast/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/jeff/Documents/BluesCast/RootViewController.m:206: warning: 'iPhoneStreamingPlayerViewController' may not respond to '-stopAll'
+o/Users/jeff/Documents/BluesCast/RootViewController.m:206: warning: (Messages without a matching method signature
+o/Users/jeff/Documents/BluesCast/RootViewController.m:206: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Documents/BluesCast/RootViewController.m:206: warning: '...' as arguments.)
+lSLF07#2@60"Compile /Users/jeff/Documents/BluesCast/RootViewController.m287008161#287008161#0(906"/Users/jeff/Documents/BluesCast/RootViewController.m: In function '-[RootViewController viewDidLoad]':/Users/jeff/Documents/BluesCast/RootViewController.m:49: warning: incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setTableDataSource:' from distinct Objective-C type/Users/jeff/Documents/BluesCast/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':/Users/jeff/Documents/BluesCast/RootViewController.m:206: warning: 'iPhoneStreamingPlayerViewController' may not respond to '-stopAll'/Users/jeff/Documents/BluesCast/RootViewController.m:206: warning: (Messages without a matching method signature/Users/jeff/Documents/BluesCast/RootViewController.m:206: warning: will be assumed to return 'id' and accept/Users/jeff/Documents/BluesCast/RootViewController.m:206: warning: '...' as arguments.)3(22@165"Incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setTableDataSource:' from distinct Objective-C type287008161#103#232#0(6@52"/Users/jeff/Documents/BluesCast/RootViewController.m286980594#49#0#49#0#0"0(22@67"'iPhoneStreamingPlayerViewController' may not respond to '-stopAll'287008161#461#135#0(6@52"/Users/jeff/Documents/BluesCast/RootViewController.m286980594#206#0#206#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)287008161#596#113#0(6@52"/Users/jeff/Documents/BluesCast/RootViewController.m286980594#206#0#206#0#0"0(0#0#52"/Users/jeff/Documents/BluesCast/RootViewController.m4300903632#1795"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/RootViewController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/SpeakHereAppDelegate.o /Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.462867
+e287008161.597553
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/SpeakHereAppDelegate.o
+x/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m: In function '-[SpeakHereAppDelegate applicationDidFinishLaunching:]':
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: 'SpeakHereAppDelegate' may not respond to '-chooseNonDuplicatingSequence:max:array:'
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: (Messages without a matching method signature
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: will be assumed to return 'id' and accept
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: '...' as arguments.)
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m: In function '-[SpeakHereAppDelegate chooseNonDuplicatingSequence:max:array:]':
+o/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:181: warning: unused variable 'c'
+lSLF07#2@62"Compile /Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m287008161#287008161#0(816"/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m: In function '-[SpeakHereAppDelegate applicationDidFinishLaunching:]':/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: 'SpeakHereAppDelegate' may not respond to '-chooseNonDuplicatingSequence:max:array:'/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: (Messages without a matching method signature/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: will be assumed to return 'id' and accept/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:91: warning: '...' as arguments.)/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m: In function '-[SpeakHereAppDelegate chooseNonDuplicatingSequence:max:array:]':/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m:181: warning: unused variable 'c'3(22@84"'SpeakHereAppDelegate' may not respond to '-chooseNonDuplicatingSequence:max:array:'287008161#126#153#0(6@54"/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m286980594#91#0#91#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)287008161#279#114#0(6@54"/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m286980594#91#0#91#0#0"0(22@19"Unused variable 'c'287008161#727#89#0(6@54"/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m286980594#181#0#181#0#19"unused variable '*'0(0#0#54"/Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m4300903632#1799"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/SpeakHereAppDelegate.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/SpeakHereAppDelegate.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/TopicsViewController.o /Users/jeff/Documents/BluesCast/TopicsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.309378
+e287008161.490870
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/TopicsViewController.o
+x/Users/jeff/Documents/BluesCast/TopicsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:255: warning: property 'rootViewController' requires method '-rootViewController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:255: warning: property 'rootViewController' requires the method 'setRootViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:255: warning: property 'toolbar' requires method '-toolbar' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/TopicsViewController.m:255: warning: property 'toolbar' requires the method 'setToolbar:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@62"Compile /Users/jeff/Documents/BluesCast/TopicsViewController.m287008161#287008161#0(826"/Users/jeff/Documents/BluesCast/TopicsViewController.m:255: warning: property 'rootViewController' requires method '-rootViewController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/TopicsViewController.m:255: warning: property 'rootViewController' requires the method 'setRootViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/TopicsViewController.m:255: warning: property 'toolbar' requires method '-toolbar' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/TopicsViewController.m:255: warning: property 'toolbar' requires the method 'setToolbar:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@144"Property 'rootViewController' requires method '-rootViewController' to be defined - use @synthesize, @dynamic or provide a method implementation287008161#0#214#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m273250538#255#0#255#0#0"0(22@151"Property 'rootViewController' requires the method 'setRootViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation287008161#214#221#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m273250538#255#0#255#0#0"0(22@122"Property 'toolbar' requires method '-toolbar' to be defined - use @synthesize, @dynamic or provide a method implementation287008161#435#192#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m273250538#255#0#255#0#0"0(22@129"Property 'toolbar' requires the method 'setToolbar:' to be defined - use @synthesize, @dynamic or provide a method implementation287008161#627#199#0(6@54"/Users/jeff/Documents/BluesCast/TopicsViewController.m273250538#255#0#255#0#0"0(0#0#54"/Users/jeff/Documents/BluesCast/TopicsViewController.m4300903632#1799"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/TopicsViewController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/TopicsViewController.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/iPhoneStreamingPlayerViewController.o /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.248672
+e287008161.581449
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/iPhoneStreamingPlayerViewController.o
+x/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:570: warning: property 'lvlMeter_in' requires method '-lvlMeter_in' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:570: warning: property 'lvlMeter_in' requires the method 'setLvlMeter_in:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:570: warning: incomplete implementation of class 'iPhoneStreamingPlayerViewController'
+o/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:570: warning: method definition for '-updateProgress:' not found
+lSLF07#2@77"Compile /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m287008161#287008161#0(729"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:570: warning: property 'lvlMeter_in' requires method '-lvlMeter_in' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:570: warning: property 'lvlMeter_in' requires the method 'setLvlMeter_in:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:570: warning: incomplete implementation of class 'iPhoneStreamingPlayerViewController'/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m:570: warning: method definition for '-updateProgress:' not found4(22@130"Property 'lvlMeter_in' requires method '-lvlMeter_in' to be defined - use @synthesize, @dynamic or provide a method implementation287008161#0#215#0(6@69"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m273248798#570#0#570#0#0"0(22@137"Property 'lvlMeter_in' requires the method 'setLvlMeter_in:' to be defined - use @synthesize, @dynamic or provide a method implementation287008161#215#222#0(6@69"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m273248798#570#0#570#0#0"0(22@72"Incomplete implementation of class 'iPhoneStreamingPlayerViewController'287008161#437#157#0(6@69"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m273248798#570#0#570#0#38"incomplete implementation of class '*'0(22@50"Method definition for '-updateProgress:' not found287008161#594#135#0(6@69"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m273248798#570#0#570#0#35"method definition for '*' not found0(0#0#69"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m4300903632#1829"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/iPhoneStreamingPlayerViewController.o0#
+
+CCompileC build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/main.o /Users/jeff/Documents/BluesCast/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008161.244427
+e287008161.309232
+r1
+xCompileC
+xbuild/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/main.o
+x/Users/jeff/Documents/BluesCast/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/jeff/Documents/BluesCast/main.m287008161#287008161#0(0"0(0#0#38"/Users/jeff/Documents/BluesCast/main.m4300903632#1767"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -include /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch -c /Users/jeff/Documents/BluesCast/main.m -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/DetailView.xib
+s287008159.360093
+e287008159.719686
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib287008159#287008159#0(0"0(0#0#46"/Users/jeff/Documents/BluesCast/DetailView.xib4300903632#454"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/DetailView.nib /Users/jeff/Documents/BluesCast/DetailView.xib0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/Information.xib
+s287008159.402977
+e287008159.729872
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/Information.xib
+lSLF07#2@26"CompileXIB Information.xib287008159#287008159#0(0"0(0#0#47"/Users/jeff/Documents/BluesCast/Information.xib4300903632#456"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Information.nib /Users/jeff/Documents/BluesCast/Information.xib0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/MainWindow.xib
+s287008159.375163
+e287008159.640238
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib287008159#287008159#0(0"0(0#0#46"/Users/jeff/Documents/BluesCast/MainWindow.xib4300903632#454"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/MainWindow.nib /Users/jeff/Documents/BluesCast/MainWindow.xib0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/RootViewController.xib
+s287008159.262942
+e287008159.554135
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib287008159#287008159#0(0"0(0#0#54"/Users/jeff/Documents/BluesCast/RootViewController.xib4300903632#470"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/RootViewController.nib /Users/jeff/Documents/BluesCast/RootViewController.xib0#
+
+CCompileXIB /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib
+s287008159.262229
+e287008159.653665
+r1
+xCompileXIB
+x/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib:67: warning: This object has a customized accessibility attributes. Accessibility attributes will be ignored on iPhone OS versions prior to 3.0.
+lSLF07#2@50"CompileXIB iPhoneStreamingPlayerViewController.xib287008159#287008159#0(258"/* com.apple.ibtool.document.warnings *//Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib:67: warning: This object has a customized accessibility attributes. Accessibility attributes will be ignored on iPhone OS versions prior to 3.0.1(22@131"This object has a customized accessibility attributes. Accessibility attributes will be ignored on iPhone OS versions prior to 3.0.287008159#18446744073709551615#0#0(6@71"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib286980198#67#0#67#0#0"0(0#0#71"/Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib4300903632#504"    cd /Users/jeff/Documents/BluesCast    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/iPhoneStreamingPlayerViewController.nib /Users/jeff/Documents/BluesCast/iPhoneStreamingPlayerViewController.xib0#
+
+CCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Default.png Default.png
+s287008159.263596
+e287008159.642768
+r1
+xCopyPNGFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Default.png
+xDefault.png
+lSLF07#2@77"CopyPNGFile build/Distribution-iphoneos/BluesCast.app/Default.png Default.png287008159#287008159#0(0"0(0#0#43"/Users/jeff/Documents/BluesCast/Default.png4300903632#550"    cd /Users/jeff/Documents/BluesCast    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jeff/Documents/BluesCast/Default.png /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Default.png0#
+
+CCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/about.png about.png
+s287008159.408385
+e287008159.774966
+r1
+xCopyPNGFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/about.png
+xabout.png
+lSLF07#2@73"CopyPNGFile build/Distribution-iphoneos/BluesCast.app/about.png about.png287008159#287008159#0(0"0(0#0#41"/Users/jeff/Documents/BluesCast/about.png4300903632#546"    cd /Users/jeff/Documents/BluesCast    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jeff/Documents/BluesCast/about.png /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/about.png0#
+
+CCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/icon.png icon.png
+s287008159.375921
+e287008159.408310
+r1
+xCopyPNGFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/icon.png
+xicon.png
+lSLF07#2@71"CopyPNGFile build/Distribution-iphoneos/BluesCast.app/icon.png icon.png287008159#287008159#0(0"0(0#0#40"/Users/jeff/Documents/BluesCast/icon.png4300903632#544"    cd /Users/jeff/Documents/BluesCast    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jeff/Documents/BluesCast/icon.png /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/icon.png0#
+
+CCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/loadingbutton.png loadingbutton.png
+s287008159.266458
+e287008159.359993
+r1
+xCopyPNGFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/loadingbutton.png
+xloadingbutton.png
+lSLF07#2@89"CopyPNGFile build/Distribution-iphoneos/BluesCast.app/loadingbutton.png loadingbutton.png287008159#287008159#0(0"0(0#0#49"/Users/jeff/Documents/BluesCast/loadingbutton.png4300903632#562"    cd /Users/jeff/Documents/BluesCast    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jeff/Documents/BluesCast/loadingbutton.png /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/loadingbutton.png0#
+
+CCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/pausebutton.png pausebutton.png
+s287008159.267150
+e287008159.375108
+r1
+xCopyPNGFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/pausebutton.png
+xpausebutton.png
+lSLF07#2@85"CopyPNGFile build/Distribution-iphoneos/BluesCast.app/pausebutton.png pausebutton.png287008159#287008159#0(0"0(0#0#47"/Users/jeff/Documents/BluesCast/pausebutton.png4300903632#558"    cd /Users/jeff/Documents/BluesCast    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jeff/Documents/BluesCast/pausebutton.png /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/pausebutton.png0#
+
+CCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/playbutton.png playbutton.png
+s287008159.265006
+e287008159.373854
+r1
+xCopyPNGFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/playbutton.png
+xplaybutton.png
+lSLF07#2@83"CopyPNGFile build/Distribution-iphoneos/BluesCast.app/playbutton.png playbutton.png287008159#287008159#0(0"0(0#0#46"/Users/jeff/Documents/BluesCast/playbutton.png4300903632#556"    cd /Users/jeff/Documents/BluesCast    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jeff/Documents/BluesCast/playbutton.png /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/playbutton.png0#
+
+CCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/rocket88.png rocket88.png
+s287008159.264327
+e287008159.962860
+r1
+xCopyPNGFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/rocket88.png
+xrocket88.png
+lSLF07#2@79"CopyPNGFile build/Distribution-iphoneos/BluesCast.app/rocket88.png rocket88.png287008159#287008159#0(0"0(0#0#44"/Users/jeff/Documents/BluesCast/rocket88.png4300903632#552"    cd /Users/jeff/Documents/BluesCast    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jeff/Documents/BluesCast/rocket88.png /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/rocket88.png0#
+
+CCopyPNGFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/stopbutton.png stopbutton.png
+s287008159.265743
+e287008159.374984
+r1
+xCopyPNGFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/stopbutton.png
+xstopbutton.png
+lSLF07#2@83"CopyPNGFile build/Distribution-iphoneos/BluesCast.app/stopbutton.png stopbutton.png287008159#287008159#0(0"0(0#0#46"/Users/jeff/Documents/BluesCast/stopbutton.png4300903632#556"    cd /Users/jeff/Documents/BluesCast    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jeff/Documents/BluesCast/stopbutton.png /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/stopbutton.png0#
+
+CCopyPlistFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Data.plist Data.plist
+s287008159.373971
+e287008159.402869
+r1
+xCopyPlistFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Data.plist
+xData.plist
+lSLF07#2@15"Copy Data.plist287008159#287008159#0(0"0(0#0#42"/Users/jeff/Documents/BluesCast/Data.plist4300903632#366"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Data.plist --outdir /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app0#
+
+CCpResource build/Distribution-iphoneos/BluesCast.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+s287008159.245446
+e287008159.262133
+r1
+xCpResource
+xbuild/Distribution-iphoneos/BluesCast.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist287008159#287008159#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist4300903632#496"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app0#
+
+CGenerateDSYMFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app.dSYM /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast
+s287008161.862363
+e287008161.889024
+r1
+xGenerateDSYMFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app.dSYM
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast
+lSLF07#2@115"GenerateDSYMFile build/Distribution-iphoneos/BluesCast.app.dSYM build/Distribution-iphoneos/BluesCast.app/BluesCast287008161#287008161#0(0"0(0#0#83"/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast4300903632#361"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast -o /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app.dSYM0#
+
+CLd /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast normal armv6
+s287008161.820507
+e287008161.862292
+r1
+xLd
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast
+xnormal
+xarmv6
+lSLF07#2@88"Link /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast287008161#287008161#0(0"0(0#0#0"4300903632#935"    cd /Users/jeff/Documents/BluesCast    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/g++-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -L/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -filelist /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/Objects-normal/armv6/BluesCast.LinkFileList -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework AudioToolbox -framework OpenGLES -framework QuartzCore -framework MediaPlayer -o /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/BluesCast0#
+
+CProcessInfoPlistFile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Info.plist BluesCast-Info.plist
+s287008159.246390
+e287008159.258267
+r1
+xProcessInfoPlistFile
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Info.plist
+xBluesCast-Info.plist
+lSLF07#2@28"Process BluesCast-Info.plist287008159#287008159#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast-Info.plist4300903632#563"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BluesCast-Info.plist -genpkginfo /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/ResourceRules.plist -o /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/Info.plist0#
+
+CProcessPCH /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287008159.962966
+e287008160.855965
+r1
+xProcessPCH
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch287008159#287008160#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300903632#1663"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-ddyfwzupfdjchqbfjqochpdjqjub/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bxxkyqvjrsqyxbdxpjtelhzwxgwl/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+s287008159.963903
+e287008161.244348
+r1
+xProcessPCH++
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bxxkyqvjrsqyxbdxpjtelhzwxgwl/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xarmv6
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch287008159#287008161#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300903632#1684"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-bxxkyqvjrsqyxbdxpjtelhzwxgwl/BluesCast_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdgewiqioiaycfcipekpgtesmazl/BluesCast_Prefix.pch.gch BluesCast_Prefix.pch normal armv6 c++ com.apple.compilers.gcc.4_2
+s287008159.964617
+e287008160.774778
+r1
+xProcessPCH++
+x/var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdgewiqioiaycfcipekpgtesmazl/BluesCast_Prefix.pch.gch
+xBluesCast_Prefix.pch
+xnormal
+xarmv6
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BluesCast_Prefix.pch287008159#287008160#0(0"0(0#0#52"/Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch4300903632#1674"    cd /Users/jeff/Documents/BluesCast    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -fvisibility-inlines-hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-generated-files.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-own-target-headers.hmap -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-all-target-headers.hmap -iquote /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast-project-headers.hmap -F/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos -I/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/include -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources/armv6 -I/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/DerivedSources -c /Users/jeff/Documents/BluesCast/BluesCast_Prefix.pch -o /var/folders/ZF/ZFQ+KSziGXedVk-KJQa+W++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BluesCast_Prefix-hdgewiqioiaycfcipekpgtesmazl/BluesCast_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/jeff/Library/MobileDevice/Provisioning Profiles/3B05286E-30D5-4533-910C-ACA7FCB9DEA1.mobileprovision" /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/embedded.mobileprovision
+s287008161.889102
+e287008161.890414
+r1
+xProcessProductPackaging
+x/Users/jeff/Library/MobileDevice/Provisioning Profiles/3B05286E-30D5-4533-910C-ACA7FCB9DEA1.mobileprovision
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/jeff/Library/MobileDevice/Provisioning Profiles/3B05286E-30D5-4533-910C-ACA7FCB9DEA1.mobileprovision" build/Distribution-iphoneos/BluesCast.app/embedded.mobileprovision287008161#287008161#0(0"0(0#0#98"/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/embedded.mobileprovision4300903632#417"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jeff/Library/MobileDevice/Provisioning Profiles/3B05286E-30D5-4533-910C-ACA7FCB9DEA1.mobileprovision" -o /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast.xcent
+s287008161.894043
+e287008161.910111
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+x/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast.xcent
+lSLF07#2@188"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast.xcent287008161#287008161#0(0"0(0#0#107"/Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast.xcent4300903632#431"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/jeff/Documents/BluesCast/build/BluesCast.build/Distribution-iphoneos/BluesCast.build/BluesCast.xcent0#
+
+CTouch /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app
+s287008161.890496
+e287008161.893965
+r1
+xTouch
+x/Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app
+lSLF07#2@79"Touch /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app287008161#287008161#0(0"0(0#0#0"4300903632#259"    cd /Users/jeff/Documents/BluesCast    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jeff/Documents/BluesCast/build/Distribution-iphoneos/BluesCast.app0#
+

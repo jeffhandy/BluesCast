@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Radio Baobab</string>
+		<key>URL</key>
+		<string>http://stream.radiobaobab.pl:8000/radiobaobab.mp3</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Mister Stuff</string>
+		<key>URL</key>
+		<string>http://82.64.4.42:8000/;stream/1</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Blues Radio UK222</string>
+		<key>URL</key>
+		<string>http://206.217.213.16:8430</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>96</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Hoodoo Radio</string>
+		<key>URL</key>
+		<string>http://130.127.24.40:8010/</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Kansas City Online</string>
+		<key>URL</key>
+		<string>http://208.53.158.48:9148/</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>KTIT</string>
+		<key>URL</key>
+		<string>http://89.212.6.10:8000/</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>WGLT Blues Radio</string>
+		<key>URL</key>
+		<string>http://138.87.128.67:8002/</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>GotRadio Blues</string>
+		<key>URL</key>
+		<string>http://64.62.164.196:2064</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Blue Ears Blues Radio</string>
+		<key>URL</key>
+		<string>http://212.48.125.69:8610/</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Kanal Blues Stream</string>
+		<key>URL</key>
+		<string>http://99.198.118.250:8160/</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>64</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Radio 6 Blues</string>
+		<key>URL</key>
+		<string>http://145.58.33.95:8198/</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>DoggaSaurus Blues</string>
+		<key>URL</key>
+		<string>http://208.187.167.216:8000/</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>BellyUp4Blues</string>
+		<key>URL</key>
+		<string>http://72.13.82.82:5100</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Mister Stuff</string>
+		<key>URL</key>
+		<string>http://82.64.4.42:8000/;stream/1</string>
+		<key>FAVORITE</key>
+		<string>0</string>
+		<key>RATE</key>
+		<string>128</string>
+		<key>STREAM</key>
+		<string>MP3</string>
+	</dict>
+</array>
+</plist>
